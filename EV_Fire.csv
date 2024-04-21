@@ -1,0 +1,1231 @@
+IncidentNumber,CalendarYear,MonthText,Type,IgnitionSourcePower,IgnitionSource,ItemFirstIgnited,VehiclePowerType,VehicleManufacturer,IncGeo_BoroughName,IncGeo_WardName,IncGeo_WardCode,Lithium batteries mentioned in report?
+000285-01012017,2017,Jan,Other Lithium Battery,Electricity,Other appliance or equipment,Other item,NULL,NULL,BARKING AND DAGENHAM,Thames View,E05014068,Yes
+000641-02012017,2017,Jan,Other Lithium Battery,Unknown,Not known,Plastic - raw material only,NULL,NULL,HOUNSLOW,Osterley & Spring Grove,E05013626,Yes
+005511-13012017,2017,Jan,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Mercedes,NEWHAM,Plaistow West & Canning Town East,E05013920,No
+006064-15012017,2017,Jan,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,HAMMERSMITH AND FULHAM,Ravenscourt,E05013746,No
+007635-18012017,2017,Jan,e-scooter,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,ISLINGTON,Mildmay,E05013709,No
+013234-31012017,2017,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,GREENWICH,West Thamesmead,E05014091,Yes
+014248-03022017,2017,Feb,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,RICHMOND UPON THAMES,Heathfield,E05013781,No
+015748-07022017,2017,Feb,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,KENSINGTON AND CHELSEA,BROMPTON & HANS TOWN,E05009389,No
+023285-24022017,2017,Feb,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Toyota,BEXLEY,St. Mary's & St. James,E05011229,No
+023815-25022017,2017,Feb,e-cigarette,Electricity,e-Smoking equipment,"Paper, cardboard",NULL,NULL,LAMBETH,Streatham St. Leonard's,E05014115,No
+025220-01032017,2017,Mar,Multiple Vehicles ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,GREENWICH,Greenwich Creekside,E05014080,No
+029312-10032017,2017,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,BARNET,West Hendon,E05013649,No
+029700-11032017,2017,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,RICHMOND UPON THAMES,Mortlake & Barnes Common,E05013783,No
+031061-14032017,2017,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,ENFIELD,Bowes,E05013673,Yes
+034637-22032017,2017,Mar,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Hyundai,BROMLEY,Chislehurst,E05013993,No
+034958-23032017,2017,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,ISLINGTON,St. Peter's & Canalside,E05013711,No
+036316-26032017,2017,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,EALING,Walpole,E05013541,No
+037224-28032017,2017,Mar,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,REDBRIDGE,Aldborough,E05011234,No
+042506-08042017,2017,Apr,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,HARROW,Centenary,E05013544,No
+042946-09042017,2017,Apr,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,UNKNOWN,LAMBETH,Waterloo & South Bank,E05014118,No
+046476-15042017,2017,Apr,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,CROYDON,Thornton Heath,E05011486,No
+048038-18042017,2017,Apr,Other Lithium Battery,Electricity,Other,Plastic - raw material only,NULL,NULL,WALTHAM FOREST,St. James,E05013899,Yes
+049416-21042017,2017,Apr,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,HARINGEY,Fortis Green,E05013589,No
+050109-22042017,2017,Apr,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,SOUTHWARK,Faraday,E05011102,No
+050966-24042017,2017,Apr,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mazda,HILLINGDON,South Ruislip,E05013579,No
+057214-07052017,2017,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Citroen,EALING,Northolt Mandeville,E05013531,No
+058874-11052017,2017,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,BARKING AND DAGENHAM,Alibon,E05014054,No
+058995-11052017,2017,May,e-cigarette,Electricity,e-Smoking equipment,Internal Fittings,NULL,NULL,HAMMERSMITH AND FULHAM,Parsons Green & Sandford,E05013745,No
+062243-18052017,2017,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Taxi (Black cab),BROMLEY,Bromley Town,E05013991,No
+062517-18052017,2017,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,HARINGEY,South Tottenham,E05013599,No
+063363-20052017,2017,May,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Renault,EALING,North Acton,E05013527,No
+064137-21052017,2017,May,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,SOUTHWARK,Borough & Bankside,E05011095,Yes
+065632-25052017,2017,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,HILLINGDON,Heathrow Villages,E05013570,No
+068363-29052017,2017,May,Other Lithium Battery,Electricity,"Batteries, generators",Other textiles,NULL,NULL,HOUNSLOW,Chiswick Homefields,E05013610,Yes
+070586-02062017,2017,Jun,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,NEWHAM,Stratford,E05013924,No
+073569-09062017,2017,Jun,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,HILLINGDON,Heathrow Villages,E05013570,No
+073769-09062017,2017,Jun,e-bike,Electricity,Battery charger,Plastic - raw material only,NULL,Other,WANDSWORTH,Wandsworth Town,E05014028,No
+079186-18062017,2017,Jun,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,TOWER HAMLETS,Lansbury,E05009325,No
+081138-21062017,2017,Jun,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,HOUNSLOW,Cranford,E05013612,No
+082399-23062017,2017,Jun,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,LEWISHAM,Lee Green,E05013726,No
+083190-24062017,2017,Jun,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,BARKING AND DAGENHAM,Heath,E05014063,No
+084643-26062017,2017,Jun,Lorry/HGV ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,HILLINGDON,Uxbridge,E05013580,No
+085536-27062017,2017,Jun,Other Lithium Battery,Electricity,Other appliance or equipment,Plastic - raw material only,NULL,NULL,TOWER HAMLETS,Canary Wharf,E05009323,Yes
+086056-29062017,2017,Jun,e-bike,Electricity,"Batteries, generators",Not known,NULL,UNKNOWN,BRENT,Kilburn,E05013503,No
+088162-03072017,2017,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mitsubishi,HARINGEY,West Green,E05013603,No
+088362-03072017,2017,Jul,e-cigarette,Electricity,e-Smoking equipment,Other wooden item,NULL,NULL,CAMDEN,Hampstead Town,E05013659,No
+089714-05072017,2017,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,CAMDEN,Bloomsbury,E05013653,Yes
+089838-06072017,2017,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Other paper product,NULL,NULL,WALTHAM FOREST,William Morris,E05013902,Yes
+090792-07072017,2017,Jul,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,CITY OF LONDON,BASSISHAW,E05009290,No
+091177-08072017,2017,Jul,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,TOWER HAMLETS,Bow West,E05009320,No
+091824-08072017,2017,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,NEWHAM,Canning Town South,E05013907,No
+092839-10072017,2017,Jul,Lorry/HGV ,Electricity,"Batteries, generators","Paper, cardboard",NULL,Other,CROYDON,Purley Oaks & Riddlesdown,E05011477,No
+094023-12072017,2017,Jul,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Renault,BROMLEY,Crystal Palace & Anerley,E05013995,No
+095012-14072017,2017,Jul,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Ford,LEWISHAM,Lee Green,E05013726,No
+096712-17072017,2017,Jul,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,WANDSWORTH,East Putney,E05014011,No
+096800-17072017,2017,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,WESTMINSTER,Maida Vale,E05013800,No
+099478-22072017,2017,Jul,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Citroen,CAMDEN,Primrose Hill,E05013667,No
+104046-01082017,2017,Aug,e-scooter,Electricity,Vehicle electrical fault,Wiring insulation,NULL,NULL,LAMBETH,Gipsy Hill,E05014103,No
+106686-07082017,2017,Aug,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,BRENT,Welsh Harp,E05013513,No
+108649-11082017,2017,Aug,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,ENFIELD,Haselbury,E05013682,No
+109866-14082017,2017,Aug,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,HAVERING,Rainham & Wennington,E05013979,No
+109956-14082017,2017,Aug,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Honda,SOUTHWARK,Dulwich Wood,E05011101,No
+110046-14082017,2017,Aug,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Citroen,RICHMOND UPON THAMES,Fulwell & Hampton Hill,E05013776,No
+121282-08092017,2017,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,EALING,Norwood Green,E05013533,Yes
+123967-13092017,2017,Sep,Other road vehicle,Electricity,"Batteries, generators",Other item,NULL,Taxi (Black cab),REDBRIDGE,Churchfields,E05011238,No
+124597-15092017,2017,Sep,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,RICHMOND UPON THAMES,Hampton,E05013778,No
+127117-20092017,2017,Sep,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,GREENWICH,Plumstead & Glyndon,E05014087,No
+127477-21092017,2017,Sep,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Jaguar/Daimler,MERTON,Village,E05013825,No
+130519-27092017,2017,Sep,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Peugeot,WESTMINSTER,St. James's,E05013806,No
+131768-30092017,2017,Sep,Motor Home ,Electricity,"Batteries, generators",Internal Fittings,NULL,Volkswagen,KINGSTON UPON THAMES,St. Mark's & Seething Wells,E05013943,No
+131802-30092017,2017,Sep,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,HACKNEY,KING'S PARK,E05009379,No
+136726-11102017,2017,Oct,Bus/coach ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Saab,HAVERING,South Hornchurch,E05013984,No
+138522-14102017,2017,Oct,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,LEWISHAM,Telegraph Hill,E05013732,No
+139680-17102017,2017,Oct,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,BEXLEY,Crayford,E05011222,No
+140039-17102017,2017,Oct,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,WESTMINSTER,Knightsbridge & Belgravia,E05013797,No
+140143-18102017,2017,Oct,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,REDBRIDGE,Fairlop,E05011242,No
+141915-21102017,2017,Oct,Other Lithium Battery,Not applicable,Candles/Tea lights - Social use,Clothing,NULL,NULL,ENFIELD,Whitewebbs,E05013695,Yes
+142660-23102017,2017,Oct,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,LEWISHAM,Ladywell,E05013725,No
+147160-01112017,2017,Nov,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Toyota,TOWER HAMLETS,Shadwell,E05009332,No
+149881-06112017,2017,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,SOUTHWARK,Rye Lane,E05011113,No
+150507-07112017,2017,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BARKING AND DAGENHAM,Eastbury,E05014060,Yes
+150661-08112017,2017,Nov,Lorry/HGV ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Mercedes,HAVERING,Upminster,E05013986,No
+152094-11112017,2017,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,WANDSWORTH,Roehampton,E05014017,No
+154802-17112017,2017,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,WANDSWORTH,St. Mary's,E05014018,No
+155042-17112017,2017,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,LAMBETH,Streatham St. Leonard's,E05014115,No
+155624-19112017,2017,Nov,Other Lithium Battery,Electricity,Battery charger,Other item,NULL,NULL,BEXLEY,Bexleyheath,E05011219,Yes
+156694-21112017,2017,Nov,Other Lithium Battery,Electricity,Other computer equipment,Other item,NULL,NULL,CITY OF LONDON,WALBROOK,E05009312,Yes
+161315-01122017,2017,Dec,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,BRENT,Wembley Central,E05013514,No
+164021-06122017,2017,Dec,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Toyota,WESTMINSTER,Regent's Park,E05013805,No
+165316-09122017,2017,Dec,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+167881-15122017,2017,Dec,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,BRENT,Kingsbury,E05013504,No
+170173-20122017,2017,Dec,e-cigarette,Electricity,e-Smoking equipment,Upholstered furniture,NULL,NULL,KINGSTON UPON THAMES,Green Lane & St. James,E05013934,Yes
+174192-29122017,2017,Dec,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,LEWISHAM,Hither Green,E05013724,No
+001254-03012018,2018,Jan,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,ISLINGTON,Caledonian,E05013700,No
+003030-08012018,2018,Jan,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,CROYDON,Broad Green,E05011465,No
+004395-11012018,2018,Jan,Bus/coach ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,REDBRIDGE,Newbury,E05011250,No
+006333-16012018,2018,Jan,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Audi,HOUNSLOW,Heston East,E05013618,No
+006940-17012018,2018,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,ISLINGTON,Junction,E05013707,Yes
+007862-19012018,2018,Jan,Bus/coach ,Electricity,"Batteries, generators",None,NULL,Other,TOWER HAMLETS,Canary Wharf,E05009323,No
+008401-20012018,2018,Jan,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,ISLINGTON,Hillrise,E05013705,No
+010309-25012018,2018,Jan,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,EALING,Perivale,E05013534,No
+014472-04022018,2018,Feb,Multiple Vehicles ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Honda,HARROW,Kenton East,E05013551,No
+015580-06022018,2018,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,CROYDON,Thornton Heath,E05011486,Yes
+015714-07022018,2018,Feb,Bus/coach ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,WESTMINSTER,Marylebone,E05013801,No
+016300-08022018,2018,Feb,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Vauxhall/GM,REDBRIDGE,Clementswood,E05011240,No
+017438-11022018,2018,Feb,Other Lithium Battery,Electricity,Other,Unspecified internal fitting/part of structure,NULL,NULL,MERTON,Lavender Fields,E05013817,Yes
+018207-13022018,2018,Feb,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,EALING,Hanger Hill,E05013524,No
+019244-15022018,2018,Feb,Motorcycle ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,BEXLEY,St. Mary's & St. James,E05011229,No
+022903-24022018,2018,Feb,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Saab,GREENWICH,Greenwich Peninsula,E05014082,No
+023157-24022018,2018,Feb,Other Lithium Battery,Electricity,Other,Plastic - raw material only,NULL,NULL,BARNET,Finchley Church End,E05013639,Yes
+023180-24022018,2018,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,LAMBETH,Waterloo & South Bank,E05014118,Yes
+030948-10032018,2018,Mar,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,BMW,REDBRIDGE,Seven Kings,E05011251,No
+031924-12032018,2018,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,NEWHAM,Forest Gate South,E05013912,No
+032008-13032018,2018,Mar,e-scooter,Other,Other,Plastic - raw material only,NULL,NULL,CROYDON,Purley Oaks & Riddlesdown,E05011477,No
+033101-15032018,2018,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,NEWHAM,Maryland,E05013917,No
+034143-18032018,2018,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Nissan,BARNET,High Barnet,E05013644,No
+041361-05042018,2018,Apr,e-cigarette,Electricity,e-Smoking equipment,Wiring insulation,NULL,NULL,REDBRIDGE,South Woodford,E05011252,No
+042488-07042018,2018,Apr,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,LEWISHAM,Catford South,E05013717,No
+043148-08042018,2018,Apr,Minibus ,Electricity,"Batteries, generators",Wiring insulation,NULL,Rover,ENFIELD,Palmers Green,E05013688,No
+045269-14042018,2018,Apr,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,NULL,UNKNOWN,BARKING AND DAGENHAM,Eastbrook & Rush Green,E05014059,No
+054054-03052018,2018,May,Other Lithium Battery,Not applicable,Gases,Gases,NULL,NULL,WESTMINSTER,Knightsbridge & Belgravia,E05013797,Yes
+055194-05052018,2018,May,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,KINGSTON UPON THAMES,St. Mark's & Seething Wells,E05013943,Yes
+057319-09052018,2018,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Toyota,KENSINGTON AND CHELSEA,ROYAL HOSPITAL,E05009403,No
+061717-18052018,2018,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,HOUNSLOW,Hounslow West,E05013624,No
+062210-19052018,2018,May,Car ,Electricity,"Batteries, generators",Other item,NULL,Mazda,CROYDON,Coulsdon Town,E05011466,No
+064486-24052018,2018,May,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,GREENWICH,East Greenwich,E05014076,No
+068347-30052018,2018,May,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,WESTMINSTER,Marylebone,E05013801,Yes
+070838-04062018,2018,Jun,Van ,Electricity,"Batteries, generators",Household paper/Cardboard,NULL,UNKNOWN,WANDSWORTH,West Putney,E05014030,No
+074242-11062018,2018,Jun,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Nissan,SUTTON,Sutton North,E05013766,No
+078571-20062018,2018,Jun,Multiple Vehicles ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,ENFIELD,Arnos Grove,E05013672,No
+080032-22062018,2018,Jun,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Toyota,HAVERING,Rush Green & Crowlands,E05013980,No
+091533-08072018,2018,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Vauxhall/GM,BEXLEY,St. Mary's & St. James,E05011229,No
+092746-09072018,2018,Jul,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,RICHMOND UPON THAMES,Hampton North,E05013779,No
+093695-11072018,2018,Jul,Car ,Electricity,"Batteries, generators",Roof,NULL,Mercedes,GREENWICH,Charlton Village & Riverside,E05014075,No
+094946-13072018,2018,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Hyundai,BARNET,East Finchley,E05013636,No
+096618-15072018,2018,Jul,Motorcycle ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Honda,BRENT,Kingsbury,E05013504,No
+101035-21072018,2018,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Vauxhall/GM,BEXLEY,St. Mary's & St. James,E05011229,No
+101696-22072018,2018,Jul,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,WESTMINSTER,West End,E05013808,No
+103544-24072018,2018,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Vauxhall/GM,BARNET,Whetstone,E05013650,No
+103635-24072018,2018,Jul,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,UNKNOWN,WANDSWORTH,Roehampton,E05014017,No
+104266-25072018,2018,Jul,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Jaguar/Daimler,TOWER HAMLETS,Limehouse,E05009326,No
+105778-27072018,2018,Jul,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+112458-05082018,2018,Aug,e-cigarette,Electricity,e-Smoking equipment,Rubbish/Waste material,NULL,NULL,ENFIELD,Brimsdown,E05013674,No
+112739-06082018,2018,Aug,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Mitsubishi,ISLINGTON,St. Mary's & St. James',E05013710,No
+116317-13082018,2018,Aug,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,HILLINGDON,Heathrow Villages,E05013570,No
+116613-14082018,2018,Aug,Other Lithium Battery,Other,Other,Plastic - raw material only,NULL,NULL,LEWISHAM,Deptford,E05013719,Yes
+119197-19082018,2018,Aug,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,NULL,UNKNOWN,EALING,North Acton,E05013527,No
+120553-22082018,2018,Aug,Other Lithium Battery,Other,Other,Other item,NULL,NULL,TOWER HAMLETS,Bow East,E05009319,Yes
+121491-24082018,2018,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,HACKNEY,STOKE NEWINGTON,E05009385,Yes
+123390-28082018,2018,Aug,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,REDBRIDGE,Wanstead Village,E05011255,No
+123828-29082018,2018,Aug,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,CROYDON,South Norwood,E05011485,No
+124052-30082018,2018,Aug,e-bike,Electricity,"Batteries, generators",Capacitor,NULL,Other,ISLINGTON,Canonbury,E05013701,No
+127302-06092018,2018,Sep,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,BMW,LEWISHAM,Lee Green,E05013726,No
+129869-11092018,2018,Sep,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,NEWHAM,Little Ilford,E05013915,No
+135006-22092018,2018,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,LEWISHAM,Lee Green,E05013726,Yes
+137042-26092018,2018,Sep,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,WANDSWORTH,Thamesfield,E05014022,No
+144044-10102018,2018,Oct,Lorry/HGV ,Electricity,"Batteries, generators",External fittings,NULL,NULL,SUTTON,Beddington,E05013754,No
+148553-20102018,2018,Oct,Other road vehicle,Electricity,"Batteries, generators",Internal Fittings,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+149749-22102018,2018,Oct,Other Lithium Battery,Electricity,Other,Plastic - raw material only,NULL,NULL,BRENT,Harlesden & Kensal Green,E05013501,Yes
+153194-29102018,2018,Oct,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,EALING,Norwood Green,E05013533,No
+154731-01112018,2018,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,WESTMINSTER,St. James's,E05013806,Yes
+154842-01112018,2018,Nov,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Volkswagen,BRENT,Brondesbury Park,E05013498,No
+159180-10112018,2018,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,LAMBETH,Clapham Common & Abbeville,E05014099,No
+160502-12112018,2018,Nov,Car ,Electricity,"Batteries, generators",Petrol/Oil products,NULL,Vauxhall/GM,GREENWICH,Plumstead & Glyndon,E05014087,No
+161870-16112018,2018,Nov,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,WALTHAM FOREST,Leyton,E05013896,No
+166687-26112018,2018,Nov,e-bike,Electricity,Other appliance or equipment,Other item,NULL,NULL,BARKING AND DAGENHAM,Alibon,E05014054,Yes
+167248-27112018,2018,Nov,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,BRENT,Roundwood,E05013509,No
+167361-27112018,2018,Nov,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,HILLINGDON,Pinkwell,E05013576,No
+170534-05122018,2018,Dec,e-scooter,Electricity,"Batteries, generators",Other furniture,NULL,NULL,HACKNEY,HOXTON WEST,E05009378,No
+171347-06122018,2018,Dec,Other road vehicle,Electricity,"Batteries, generators",Printed circuit board,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+172898-10122018,2018,Dec,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,KENSINGTON AND CHELSEA,QUEEN'S GATE,E05009401,No
+179037-24122018,2018,Dec,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,NEWHAM,East Ham,E05013909,No
+001213-03012019,2019,Jan,Multiple Vehicles ,Electricity,"Batteries, generators",Wiring insulation,NULL,Peugeot,ENFIELD,Arnos Grove,E05013672,No
+002985-07012019,2019,Jan,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,BARNET,Friern Barnet,E05013640,No
+003375-08012019,2019,Jan,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Porsche,HILLINGDON,Colham & Cowley,E05013566,No
+005260-13012019,2019,Jan,e-bike,Electricity,Battery charger,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,Hammersmith Broadway,E05013741,Yes
+005877-15012019,2019,Jan,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Vauxhall/GM,HOUNSLOW,Cranford,E05013612,No
+009461-23012019,2019,Jan,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,HILLINGDON,Heathrow Villages,E05013570,No
+011346-28012019,2019,Jan,Other Lithium Battery,Electricity,Vacuum cleaner,Other item,NULL,NULL,WESTMINSTER,Pimlico North,E05013802,Yes
+012491-30012019,2019,Jan,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,BARKING AND DAGENHAM,Village,E05014070,Yes
+018799-14022019,2019,Feb,Multiple Vehicles ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,HAVERING,St. Andrew's,E05013982,No
+019921-17022019,2019,Feb,Lorry/HGV ,Electricity,"Batteries, generators",External fittings,NULL,Other,NEWHAM,Royal Albert,E05013922,No
+021376-20022019,2019,Feb,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,EALING,Norwood Green,E05013533,No
+021782-21022019,2019,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,REDBRIDGE,GOODMAYES,E05011244,Yes
+031879-16032019,2019,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BEXLEY,BLENDON & PENHILL,E05011221,Yes
+033263-19032019,2019,Mar,Motorcycle ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BEXLEY,CRAYFORD,E05011222,No
+037779-29032019,2019,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,WANDSWORTH,Wandsworth Town,E05014028,No
+041492-07042019,2019,Apr,Bus/coach ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,KENSINGTON AND CHELSEA,HOLLAND,E05009397,No
+042637-10042019,2019,Apr,Other road vehicle,Electricity,"Batteries, generators",Household paper/Cardboard,NULL,NULL,HILLINGDON,Heathrow Villages,E05013570,No
+048250-21042019,2019,Apr,Other Lithium Battery,Electricity,Computer equipment (domestic use),Other item,NULL,NULL,HAMMERSMITH AND FULHAM,Fulham Town,E05013739,Yes
+049406-24042019,2019,Apr,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,BEXLEY,BLACKFEN & LAMORBEY,E05011220,Yes
+049599-24042019,2019,Apr,Other Lithium Battery,Unknown,Not known,Unspecified material for recycling,NULL,NULL,NEWHAM,Beckton,E05013904,Yes
+051251-27042019,2019,Apr,Other road vehicle,Electricity,"Batteries, generators",Internal Fittings,NULL,UNKNOWN,HILLINGDON,Heathrow Villages,E05013570,No
+051875-29042019,2019,Apr,Other road vehicle,Electricity,"Batteries, generators",Internal Fittings,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+052459-30042019,2019,Apr,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Honda,CROYDON,WOODSIDE,E05011489,No
+054558-04052019,2019,May,Other Lithium Battery,Other,Other domestic style appliance,Plastic - raw material only,NULL,NULL,SOUTHWARK,RYE LANE,E05011113,Yes
+055066-05052019,2019,May,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,HAVERING,Rainham & Wennington,E05013979,Yes
+060959-17052019,2019,May,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,REDBRIDGE,LOXFORD,E05011247,No
+069882-03062019,2019,Jun,e-bike,Electricity,"Batteries, generators",Internal Fittings,NULL,Other,BRENT,Brondesbury Park,E05013498,No
+071675-07062019,2019,Jun,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Nissan,HARROW,Hatch End,E05013549,No
+074765-13062019,2019,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,CROYDON,SOUTH CROYDON,E05011484,Yes
+075161-14062019,2019,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,ISLINGTON,Junction,E05013707,Yes
+078661-21062019,2019,Jun,Van ,Electricity,"Batteries, generators",Foam - raw material only,NULL,Mercedes,BEXLEY,ST. MARY'S & ST. JAMES,E05011229,No
+080619-25062019,2019,Jun,Multiple Vehicles ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,HILLINGDON,Heathrow Villages,E05013570,No
+089718-11072019,2019,Jul,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,HILLINGDON,Heathrow Villages,E05013570,No
+093917-19072019,2019,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CAMDEN,Gospel Oak,E05013658,Yes
+094775-21072019,2019,Jul,e-scooter,Electricity,Other,Plastic - raw material only,NULL,NULL,TOWER HAMLETS,Shadwell,E05009332,Yes
+096300-23072019,2019,Jul,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Seat,EALING,Walpole,E05013541,No
+096822-24072019,2019,Jul,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CAMDEN,Regent's Park,E05013668,Yes
+097248-25072019,2019,Jul,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,LAMBETH,Herne Hill & Loughborough Junction,E05014104,No
+097977-26072019,2019,Jul,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Mercedes,WESTMINSTER,Westbourne,E05013809,No
+098852-27072019,2019,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,ISLINGTON,Bunhill,E05013699,Yes
+099957-29072019,2019,Jul,Van ,Electricity,"Batteries, generators",Internal Fittings,NULL,Ford,KINGSTON UPON THAMES,Norbiton,E05013941,No
+100617-30072019,2019,Jul,Agricultural vehicle,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,CROYDON,SANDERSTEAD,E05011478,No
+101847-02082019,2019,Aug,e-bike,Electricity,"Batteries, generators",Other item,NULL,Other,HAMMERSMITH AND FULHAM,White City,E05013752,No
+103532-06082019,2019,Aug,e-bike,Electricity,"Batteries, generators",Internal Fittings,NULL,UNKNOWN,WESTMINSTER,Knightsbridge & Belgravia,E05013797,No
+104502-08082019,2019,Aug,e-bike,Unknown,Other,Not known,NULL,NULL,BARKING AND DAGENHAM,Eastbury,E05014060,Yes
+104661-08082019,2019,Aug,Car ,Electricity,"Batteries, generators",Other item,NULL,Audi,LEWISHAM,Hither Green,E05013724,No
+106597-11082019,2019,Aug,Bus/coach ,Electricity,"Batteries, generators",Internal Fittings,NULL,Other,WESTMINSTER,Knightsbridge & Belgravia,E05013797,No
+110797-20082019,2019,Aug,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,LAMBETH,Oval,E05014108,No
+112161-23082019,2019,Aug,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,NEWHAM,Forest Gate South,E05013912,No
+112673-24082019,2019,Aug,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,BMW,CROYDON,WADDON,E05011487,No
+112926-24082019,2019,Aug,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,HOUNSLOW,Heston Central,E05013617,No
+114938-27082019,2019,Aug,Other road vehicle,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,HILLINGDON,Heathrow Villages,E05013570,No
+119631-05092019,2019,Sep,Van ,Electricity,"Batteries, generators",Internal Fittings,NULL,Ford,LEWISHAM,New Cross Gate,E05013728,No
+120113-06092019,2019,Sep,Car ,Electricity,"Batteries, generators",Floor coverings,NULL,BMW,NEWHAM,Wall End,E05013926,No
+120535-07092019,2019,Sep,Lorry/HGV ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,BEXLEY,SLADE GREEN & NORTHEND,E05011231,No
+127535-20092019,2019,Sep,e-cigarette,Electricity,e-Smoking equipment,Other textiles,NULL,NULL,WANDSWORTH,Wandsworth Common,E05014027,No
+131535-27092019,2019,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,WESTMINSTER,Marylebone,E05013801,Yes
+131547-27092019,2019,Sep,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Audi,HILLINGDON,Heathrow Villages,E05013570,No
+131820-27092019,2019,Sep,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,UNKNOWN,KENSINGTON AND CHELSEA,CHELSEA RIVERSIDE,E05009391,No
+135803-05102019,2019,Oct,Bicycle,Electricity,"Batteries, generators",Capacitor,NULL,UNKNOWN,ISLINGTON,Tufnell Park,E05013713,No
+136450-06102019,2019,Oct,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,HOUNSLOW,Cranford,E05013612,No
+138251-10102019,2019,Oct,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,BEXLEY,SIDCUP,E05011230,No
+146439-28102019,2019,Oct,Car ,Electricity,"Batteries, generators",Upholstered furniture,NULL,Ford,HAVERING,Harold Wood,E05013973,No
+146718-28102019,2019,Oct,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Vauxhall/GM,BROMLEY,Beckenham Town & Copers Cope,E05013987,No
+149357-02112019,2019,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Citroen,LEWISHAM,Rushey Green,E05013730,No
+151638-07112019,2019,Nov,e-scooter,Other,Other,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,Wendell Park,E05013750,Yes
+154585-14112019,2019,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Citroen,GREENWICH,Shooters Hill,E05014089,No
+156375-17112019,2019,Nov,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,BARNET,Cricklewood,E05013634,No
+160128-26112019,2019,Nov,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,BARKING AND DAGENHAM,Northbury,E05014066,No
+160897-27112019,2019,Nov,Motorcycle ,Electricity,"Batteries, generators",Not known,NULL,UNKNOWN,LAMBETH,Brixton Acre Lane,E05014095,No
+162922-02122019,2019,Dec,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Range Rover,CROYDON,ADDISCOMBE EAST,E05011462,No
+163125-02122019,2019,Dec,e-cigarette,Electricity,e-Smoking equipment,Bedding,NULL,NULL,HAMMERSMITH AND FULHAM,College Park & Old Oak,E05013736,No
+164613-05122019,2019,Dec,Other Lithium Battery,Electricity,Battery charger,Household paper/Cardboard,NULL,NULL,BRENT,Stonebridge,E05013510,Yes
+164624-05122019,2019,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,KINGSTON UPON THAMES,Kingston Town,E05013938,Yes
+164957-06122019,2019,Dec,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Peugeot,HOUNSLOW,Chiswick Gunnersbury,E05013609,No
+165438-07122019,2019,Dec,Bus/coach ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,UNKNOWN,NEWHAM,Plaistow West & Canning Town East,E05013920,No
+169052-15122019,2019,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BROMLEY,Kelsey & Eden Park,E05013999,Yes
+170486-18122019,2019,Dec,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,LAMBETH,Vauxhall,E05014117,No
+170705-19122019,2019,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,BROMLEY,Petts Wood & Knoll,E05014003,Yes
+172823-23122019,2019,Dec,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,WALTHAM FOREST,Chapel End,E05013884,No
+004090-10012020,2020,Jan,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,UNKNOWN,HILLINGDON,Heathrow Villages,E05013570,No
+004106-10012020,2020,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,LEWISHAM,Forest Hill,E05013722,Yes
+009567-23012020,2020,Jan,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,WALTHAM FOREST,Grove Green,E05013888,No
+011478-27012020,2020,Jan,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,WALTHAM FOREST,Leytonstone,E05013897,No
+011647-28012020,2020,Jan,Other road vehicle,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,HILLINGDON,Heathrow Villages,E05013570,No
+012157-29012020,2020,Jan,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,WALTHAM FOREST,Hale End & Highams Park South,E05013889,No
+015571-06022020,2020,Feb,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+021074-18022020,2020,Feb,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,UNKNOWN,EALING,Hanwell Broadway,E05013525,No
+021834-20022020,2020,Feb,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,WALTHAM FOREST,Hale End & Highams Park South,E05013889,No
+023401-23022020,2020,Feb,Other Lithium Battery,Other,Other,Other item,NULL,NULL,ENFIELD,Arnos Grove,E05013672,Yes
+023496-23022020,2020,Feb,e-cigarette,Electricity,e-Smoking equipment,Printed circuit board,NULL,NULL,REDBRIDGE,CRANBROOK,E05011241,No
+027672-04032020,2020,Mar,Car ,Electricity,"Batteries, generators",Other item,NULL,Toyota,BARNET,Garden Suburb,E05013641,No
+028095-05032020,2020,Mar,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Chrysler/Talbot/Hillman/Sunbeam,ENFIELD,Palmers Green,E05013688,No
+029220-07032020,2020,Mar,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Toyota,EALING,Hanwell Broadway,E05013525,No
+031845-13032020,2020,Mar,Car ,Electricity,"Batteries, generators",Not known,NULL,Toyota,TOWER HAMLETS,Stepney Green,E05009334,No
+032989-16032020,2020,Mar,Bus/coach ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,NULL,HAVERING,Upminster,E05013986,No
+036009-23032020,2020,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,BARNET,Edgwarebury,E05013638,Yes
+036924-26032020,2020,Mar,e-cigarette,Electricity,e-Smoking equipment,Printed circuit board,NULL,UNKNOWN,LAMBETH,Stockwell West & Larkhall,E05014111,No
+037199-26032020,2020,Mar,Other Lithium Battery,Unknown,Other,Other item,NULL,NULL,LAMBETH,Clapham Park,E05014101,Yes
+039172-31032020,2020,Mar,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mitsubishi,GREENWICH,Eltham Page,E05014077,No
+047836-22042020,2020,Apr,Other Lithium Battery,Unknown,Other,"Paper, cardboard",NULL,NULL,BARKING AND DAGENHAM,Beam,E05014056,Yes
+048334-23042020,2020,Apr,Other Lithium Battery,Electricity,Battery charger,Not known,NULL,NULL,BEXLEY,BLENDON & PENHILL,E05011221,Yes
+049690-26042020,2020,Apr,e-cigarette,Electricity,e-Smoking equipment,Internal Fittings,NULL,NULL,CAMDEN,Gospel Oak,E05013658,No
+050543-28042020,2020,Apr,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Citroen,CROYDON,BROAD GREEN,E05011465,No
+051861-02052020,2020,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Citroen,RICHMOND UPON THAMES,Heathfield,E05013781,No
+052863-05052020,2020,May,Other Lithium Battery,Unknown,Not known,Clothing,NULL,NULL,BROMLEY,Crystal Palace & Anerley,E05013995,Yes
+053871-07052020,2020,May,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,BEXLEY,ERITH,E05011225,Yes
+054929-10052020,2020,May,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BRENT,Cricklewood & Mapesbury,E05013499,No
+060473-21052020,2020,May,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,UNKNOWN,LAMBETH,Gipsy Hill,E05014103,No
+061752-24052020,2020,May,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Honda,CROYDON,ADDISCOMBE EAST,E05011462,No
+061854-24052020,2020,May,Other Lithium Battery,Other,Other,Other item,NULL,NULL,CAMDEN,Camden Town,E05013655,Yes
+062434-25052020,2020,May,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,REDBRIDGE,FAIRLOP,E05011242,No
+062799-26052020,2020,May,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,BRENT,Wembley Park,E05013516,Yes
+065020-30052020,2020,May,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CROYDON,THORNTON HEATH,E05011486,Yes
+069255-07062020,2020,Jun,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Taxi (Black cab),BROMLEY,Petts Wood & Knoll,E05014003,No
+071741-13062020,2020,Jun,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Volkswagen,WALTHAM FOREST,High Street,E05013891,No
+072727-15062020,2020,Jun,e-bike,Electricity,"Batteries, generators",Printed circuit board,NULL,UNKNOWN,HAMMERSMITH AND FULHAM,Ravenscourt,E05013746,Yes
+074774-20062020,2020,Jun,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Alfa Romeo,HILLINGDON,Uxbridge,E05013580,No
+075224-21062020,2020,Jun,Other Lithium Battery,Other,Other,Other item,NULL,NULL,WESTMINSTER,West End,E05013808,Yes
+075478-21062020,2020,Jun,e-scooter,Other,Other appliance or equipment,Other item,NULL,NULL,HARINGEY,Tottenham Hale,E05013602,Yes
+076724-24062020,2020,Jun,e-scooter,Electricity,Other appliance or equipment,Other item,NULL,NULL,WANDSWORTH,West Putney,E05014030,No
+079139-28062020,2020,Jun,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,LAMBETH,Herne Hill & Loughborough Junction,E05014104,No
+079357-28062020,2020,Jun,e-bike,Electricity,"Batteries, generators",Grassland/Heath/Scrub,NULL,UNKNOWN,HAVERING,South Hornchurch,E05013984,No
+079607-29062020,2020,Jun,e-scooter,Electricity,Other,Other item,NULL,NULL,EALING,Hanger Hill,E05013524,Yes
+080750-02072020,2020,Jul,e-scooter,Electricity,Other,Other item,NULL,NULL,CROYDON,NORBURY & POLLARDS HILL,E05011472,No
+082735-06072020,2020,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,HAVERING,Hylands & Harrow Lodge,E05013976,No
+084758-11072020,2020,Jul,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,WALTHAM FOREST,Leyton,E05013896,Yes
+088099-18072020,2020,Jul,Other Lithium Battery,Electricity,Other appliance or equipment,Other item,NULL,NULL,BEXLEY,ERITH,E05011225,Yes
+089880-21072020,2020,Jul,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,EALING,Lady Margaret,E05013526,No
+091101-23072020,2020,Jul,e-scooter,Unknown,Not known,Not known,NULL,NULL,HAMMERSMITH AND FULHAM,White City,E05013752,No
+092762-27072020,2020,Jul,Car ,Electricity,"Batteries, generators",Upholstered furniture,NULL,Mercedes,BRENT,Wembley Central,E05013514,No
+096271-03082020,2020,Aug,Motorcycle ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,HARINGEY,Crouch End,E05013588,No
+103142-13082020,2020,Aug,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,HILLINGDON,Wood End,E05013582,No
+104182-15082020,2020,Aug,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,EALING,Hanwell Broadway,E05013525,Yes
+109779-26082020,2020,Aug,Other Lithium Battery,Electricity,Computer equipment (domestic use),Plastic - raw material only,NULL,NULL,BROMLEY,Penge & Cator,E05014002,Yes
+110967-28082020,2020,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,GREENWICH,Greenwich Creekside,E05014080,Yes
+112590-01092020,2020,Sep,Motor Home ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,HOUNSLOW,Bedfont,E05013606,No
+114300-05092020,2020,Sep,Other Lithium Battery,Not applicable,Candles/Tea lights - Social use,Other wooden item,NULL,NULL,EALING,North Hanwell,E05013529,Yes
+115044-07092020,2020,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,NEWHAM,Custom House,E05013908,Yes
+115877-09092020,2020,Sep,e-scooter,Electricity,Other,Other item,NULL,NULL,LEWISHAM,Rushey Green,E05013730,Yes
+120397-18092020,2020,Sep,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,NEWHAM,Forest Gate South,E05013912,Yes
+121032-19092020,2020,Sep,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,ENFIELD,Edmonton Green,E05013679,No
+121371-19092020,2020,Sep,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Volkswagen,HILLINGDON,Hillingdon East,E05013571,No
+123758-24092020,2020,Sep,e-scooter,Electricity,Other,Household paper/Cardboard,NULL,NULL,MERTON,Pollards Hill,E05013821,No
+123806-24092020,2020,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,HILLINGDON,Heathrow Villages,E05013570,Yes
+124006-25092020,2020,Sep,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,EALING,Hanwell Broadway,E05013525,No
+125276-27092020,2020,Sep,Motorcycle ,Electricity,"Batteries, generators",Internal Fittings,NULL,UNKNOWN,ISLINGTON,Mildmay,E05013709,No
+127937-03102020,2020,Oct,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HARINGEY,Fortis Green,E05013589,No
+128602-05102020,2020,Oct,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,SOUTHWARK,FARADAY,E05011102,Yes
+129393-06102020,2020,Oct,e-scooter,Electricity,"Batteries, generators",Other item,NULL,Other,HAMMERSMITH AND FULHAM,Palace & Hurlingham,E05013744,Yes
+129635-07102020,2020,Oct,Other Lithium Battery,Other,Other,Other item,NULL,NULL,HARINGEY,Stroud Green,E05013600,Yes
+129944-08102020,2020,Oct,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,TOWER HAMLETS,Bromley North,E05009321,Yes
+130963-10102020,2020,Oct,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,CAMDEN,Kilburn,E05013665,No
+131861-12102020,2020,Oct,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Peugeot,WESTMINSTER,Hyde Park,E05013796,No
+132069-13102020,2020,Oct,e-scooter,Electricity,Vehicle electrical fault,Printed circuit board,NULL,UNKNOWN,CROYDON,SELSDON & ADDINGTON VILLAGE,E05011480,No
+132720-15102020,2020,Oct,e-scooter,Electricity,"Batteries, generators",Other item,NULL,UNKNOWN,ENFIELD,Lower Edmonton,E05013685,Yes
+134187-18102020,2020,Oct,e-scooter,Electricity,Vehicle electrical fault,Internal Fittings,NULL,UNKNOWN,HARINGEY,Fortis Green,E05013589,No
+134576-19102020,2020,Oct,e-scooter,Electricity,"Batteries, generators",Other item,NULL,NULL,BEXLEY,SLADE GREEN & NORTHEND,E05011231,Yes
+135076-21102020,2020,Oct,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,HACKNEY,HOXTON EAST & SHOREDITCH,E05009377,Yes
+138640-29102020,2020,Oct,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,BEXLEY,BARNEHURST,E05011217,Yes
+138871-30102020,2020,Oct,e-scooter,Electricity,Vehicle electrical fault,Wiring insulation,NULL,NULL,WESTMINSTER,St. James's,E05013806,No
+141219-04112020,2020,Nov,Other Lithium Battery,Other,Other,Other item,NULL,NULL,WESTMINSTER,Knightsbridge & Belgravia,E05013797,Yes
+142365-06112020,2020,Nov,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,CROYDON,BROAD GREEN,E05011465,No
+144254-10112020,2020,Nov,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Range Rover,BARKING AND DAGENHAM,Northbury,E05014066,No
+144903-12112020,2020,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,GREENWICH,Plumstead & Glyndon,E05014087,Yes
+145001-12112020,2020,Nov,e-bike,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,MERTON,Abbey,E05013810,Yes
+146630-16112020,2020,Nov,e-scooter,Electricity,Other appliance or equipment,Plastic - raw material only,NULL,NULL,GREENWICH,Woolwich Common,E05014093,Yes
+147027-18112020,2020,Nov,e-scooter,Electricity,"Batteries, generators",Clothing,NULL,NULL,CROYDON,BROAD GREEN,E05011465,Yes
+148022-20112020,2020,Nov,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,CAMDEN,Fortune Green,E05013656,No
+151718-30112020,2020,Nov,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Volkswagen,BROMLEY,Clock House,E05013994,No
+151961-30112020,2020,Nov,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,CAMDEN,St. Pancras & Somers Town,E05013669,Yes
+152189-01122020,2020,Dec,e-scooter,Electricity,Other appliance or equipment,Other item,NULL,NULL,BROMLEY,Orpington,E05014001,Yes
+154139-06122020,2020,Dec,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,BARNET,Brunswick Park,E05013629,No
+154439-07122020,2020,Dec,e-scooter,Electricity,"Batteries, generators",Not known,NULL,NULL,KENSINGTON AND CHELSEA,QUEEN'S GATE,E05009401,Yes
+156736-12122020,2020,Dec,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,LEWISHAM,Catford South,E05013717,No
+157271-13122020,2020,Dec,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Volkswagen,CROYDON,SOUTH NORWOOD,E05011485,No
+159569-19122020,2020,Dec,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Jaguar/Daimler,WESTMINSTER,Marylebone,E05013801,No
+161088-23122020,2020,Dec,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Vauxhall/GM,BROMLEY,St. Paul's Cray,E05014007,No
+161230-24122020,2020,Dec,Other road vehicle,Electricity,"Batteries, generators",Internal Fittings,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+164023-31122020,2020,Dec,e-scooter,Electricity,Other,Other item,NULL,NULL,GREENWICH,Charlton Hornfair,E05014074,No
+164398-31122020,2020,Dec,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,NEWHAM,Plaistow North,E05013918,No
+002670-07012021,2021,Jan,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Ford,BEXLEY,EAST WICKHAM,E05011224,No
+002812-08012021,2021,Jan,e-bike,Not applicable,Spread from secondary fire,External fittings,NULL,NULL,EALING,North Acton,E05013527,No
+003497-09012021,2021,Jan,Other Lithium Battery,Electricity,Other,Other item,NULL,NULL,HACKNEY,WOODBERRY DOWN,E05009387,Yes
+004031-10012021,2021,Jan,e-scooter,Electricity,"Wiring, cabling, plugs",Internal Fittings,NULL,NULL,LEWISHAM,Forest Hill,E05013722,No
+004223-11012021,2021,Jan,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,GREENWICH,West Thamesmead,E05014091,No
+005630-14012021,2021,Jan,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,UNKNOWN,LAMBETH,Waterloo & South Bank,E05014118,No
+005773-15012021,2021,Jan,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,CAMDEN,King's Cross,E05013666,No
+006340-16012021,2021,Jan,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Ford,BROMLEY,Crystal Palace & Anerley,E05013995,No
+007189-19012021,2021,Jan,e-scooter,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,CAMDEN,Haverstock,E05013660,No
+008554-23012021,2021,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Not known,NULL,NULL,HOUNSLOW,Feltham North,E05013613,Yes
+013728-05022021,2021,Feb,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,BMW,HACKNEY,LEA BRIDGE,E05009380,No
+013887-06022021,2021,Feb,Multiple Vehicles ,Electricity,"Batteries, generators",Wiring insulation,NULL,Mercedes,BRENT,Sudbury,E05013511,No
+014049-06022021,2021,Feb,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,KINGSTON UPON THAMES,Chessington South & Malden Rushett,E05013931,Yes
+015020-09022021,2021,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,SOUTHWARK,FARADAY,E05011102,Yes
+015521-10022021,2021,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BARNET,Mill Hill,E05013645,Yes
+017472-14022021,2021,Feb,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,ENFIELD,Cockfosters,E05013678,No
+018052-15022021,2021,Feb,e-scooter,Electricity,Other,Other item,NULL,NULL,WESTMINSTER,Lancaster Gate,E05013798,No
+018635-17022021,2021,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Not known,NULL,NULL,EALING,North Acton,E05013527,Yes
+019428-19022021,2021,Feb,Car ,Electricity,"Batteries, generators",Other item,NULL,Mazda,HILLINGDON,Northwood,E05013574,No
+021348-24022021,2021,Feb,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,WALTHAM FOREST,Chapel End,E05013884,No
+021648-24022021,2021,Feb,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,UNKNOWN,HARROW,Centenary,E05013544,No
+022549-26022021,2021,Feb,e-scooter,Electricity,Other appliance or equipment,Internal Fittings,NULL,NULL,SOUTHWARK,NORTH WALWORTH,E05011107,No
+024261-03032021,2021,Mar,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Citroen,BRENT,Northwick Park,E05013505,No
+028718-14032021,2021,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Bed/mattress,NULL,NULL,WALTHAM FOREST,Leytonstone,E05013897,Yes
+028738-14032021,2021,Mar,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,LEWISHAM,Crofton Park,E05013718,No
+028882-15032021,2021,Mar,e-scooter,Electricity,Other appliance or equipment,Plastic - raw material only,NULL,NULL,BEXLEY,ERITH,E05011225,No
+029090-15032021,2021,Mar,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,HILLINGDON,Northwood Hills,E05013575,No
+029487-16032021,2021,Mar,e-scooter,Electricity,Power Source,Window coverings,NULL,NULL,HAVERING,Heaton,E05013975,No
+030484-19032021,2021,Mar,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Other,REDBRIDGE,BRIDGE,E05011236,No
+030571-19032021,2021,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CAMDEN,Kentish Town South,E05013664,Yes
+030674-19032021,2021,Mar,Motor Home ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,GREENWICH,Eltham Page,E05014077,No
+030800-19032021,2021,Mar,Other Lithium Battery,Electricity,Telephone/Answering machine/Fax machine,Plastic - raw material only,NULL,NULL,TOWER HAMLETS,Lansbury,E05009325,Yes
+031527-21032021,2021,Mar,e-scooter,Electricity,"Wiring, cabling, plugs",Wiring insulation,NULL,NULL,LAMBETH,Clapham Town,E05014102,No
+033891-27032021,2021,Mar,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,NEWHAM,East Ham South,E05013910,No
+035359-30032021,2021,Mar,Motorcycle ,Electricity,"Batteries, generators",Internal Fittings,NULL,BMW,WANDSWORTH,East Putney,E05014011,No
+036500-01042021,2021,Apr,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Vauxhall/GM,BARNET,Barnet Vale,E05013628,No
+036572-01042021,2021,Apr,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,TOWER HAMLETS,Bow East,E05009319,Yes
+036709-02042021,2021,Apr,Other Lithium Battery,Electricity,Vacuum cleaner,Plastic - raw material only,NULL,NULL,SOUTHWARK,BOROUGH & BANKSIDE,E05011095,Yes
+037258-03042021,2021,Apr,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,RICHMOND UPON THAMES,Teddington,E05013788,Yes
+039561-08042021,2021,Apr,e-bike,Electricity,Other,Other item,NULL,NULL,WALTHAM FOREST,William Morris,E05013902,Yes
+039786-08042021,2021,Apr,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,BRENT,Kenton,E05013502,No
+039883-08042021,2021,Apr,e-bike,Electricity,Other,Unspecified internal fitting/part of structure,NULL,NULL,SOUTHWARK,OLD KENT ROAD,E05011109,No
+041557-12042021,2021,Apr,Bus/coach ,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,Other,LEWISHAM,Telegraph Hill,E05013732,No
+042774-15042021,2021,Apr,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,BMW,HACKNEY,DE BEAUVOIR,E05009371,No
+043347-16042021,2021,Apr,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Rover,GREENWICH,East Greenwich,E05014076,No
+044356-18042021,2021,Apr,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HAMMERSMITH AND FULHAM,College Park & Old Oak,E05013736,No
+045243-20042021,2021,Apr,Other Lithium Battery,Other,Other,Printed circuit board,NULL,NULL,HILLINGDON,Hayes Town,E05013569,Yes
+046379-22042021,2021,Apr,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Audi,BROMLEY,Kelsey & Eden Park,E05013999,No
+048356-26042021,2021,Apr,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Toyota,GREENWICH,Plumstead & Glyndon,E05014087,No
+048504-26042021,2021,Apr,Other Lithium Battery,Electricity,"Batteries, generators",Not known,NULL,NULL,LEWISHAM,Forest Hill,E05013722,Yes
+049112-27042021,2021,Apr,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,BRENT,Kilburn,E05013503,Yes
+049984-29042021,2021,Apr,e-scooter,Unknown,Not known,Not known,NULL,NULL,ENFIELD,Town,E05013693,No
+050189-30042021,2021,Apr,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,ISLINGTON,Finsbury Park,E05013703,Yes
+051075-01052021,2021,May,e-bike,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,LAMBETH,Clapham Common & Abbeville,E05014099,No
+051396-02052021,2021,May,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Citroen,ENFIELD,Bullsmoor,E05013675,No
+051437-02052021,2021,May,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HARINGEY,Tottenham Central,E05013601,Yes
+051652-03052021,2021,May,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,HARINGEY,Tottenham Central,E05013601,No
+054531-08052021,2021,May,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Toyota,EALING,Ealing Broadway,E05013520,No
+054841-09052021,2021,May,e-scooter,Electricity,Other,Other item,NULL,Other,HACKNEY,SPRINGFIELD,E05009383,Yes
+055152-10052021,2021,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,HILLINGDON,Yeading,E05013583,No
+055676-11052021,2021,May,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,ISLINGTON,Tollington,E05013712,Yes
+056211-12052021,2021,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Vauxhall/GM,CAMDEN,Fortune Green,E05013656,No
+056739-14052021,2021,May,e-scooter,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,LEWISHAM,Brockley,E05013716,No
+058823-18052021,2021,May,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,BMW,BARNET,Whetstone,E05013650,No
+061112-23052021,2021,May,e-scooter,Electricity,Other,Unspecified internal fitting/part of structure,NULL,NULL,SOUTHWARK,NORTH BERMONDSEY,E05011106,No
+061198-24052021,2021,May,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,LAMBETH,Streatham Hill West & Thornton,E05014114,Yes
+061363-24052021,2021,May,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,KINGSTON UPON THAMES,Tolworth,E05013945,No
+061668-25052021,2021,May,e-bike,Electricity,"Batteries, generators",Upholstered furniture,NULL,NULL,SOUTHWARK,ST. GILES,E05011115,Yes
+062022-26052021,2021,May,e-scooter,Electricity,Other,Other item,NULL,NULL,SOUTHWARK,NORTH WALWORTH,E05011107,Yes
+062762-27052021,2021,May,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,CROYDON,NEW ADDINGTON NORTH,E05011470,Yes
+064445-30052021,2021,May,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,WALTHAM FOREST,Cann Hall,E05013882,Yes
+064733-31052021,2021,May,e-bike,Electricity,Other,Other item,NULL,NULL,HOUNSLOW,Osterley & Spring Grove,E05013626,Yes
+066313-02062021,2021,Jun,Car ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,GREENWICH,Abbey Wood,E05014072,No
+066674-03062021,2021,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,BARNET,Brunswick Park,E05013629,Yes
+069224-08062021,2021,Jun,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HARINGEY,Woodside,E05013605,Yes
+069612-09062021,2021,Jun,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HAMMERSMITH AND FULHAM,Avonmore,E05013734,Yes
+069665-09062021,2021,Jun,Van ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Mercedes,WESTMINSTER,West End,E05013808,No
+069693-09062021,2021,Jun,Multiple Vehicles ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,Volkswagen,CAMDEN,Highgate,E05013661,No
+070264-10062021,2021,Jun,Other Lithium Battery,Electricity,Battery charger,Wiring insulation,NULL,NULL,ENFIELD,Enfield Lock,E05013680,Yes
+071599-12062021,2021,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Floor coverings,NULL,NULL,GREENWICH,Eltham Page,E05014077,Yes
+072243-13062021,2021,Jun,Bus/coach ,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,CAMDEN,Kentish Town South,E05013664,No
+075107-18062021,2021,Jun,e-cigarette,Electricity,e-Smoking equipment,Bedding,NULL,NULL,ISLINGTON,Laycock,E05013708,No
+075528-19062021,2021,Jun,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,LEWISHAM,Sydenham,E05013731,Yes
+075542-19062021,2021,Jun,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,KINGSTON UPON THAMES,Kingston Town,E05013938,Yes
+075960-20062021,2021,Jun,Other Lithium Battery,Electricity,Battery charger,Internal Fittings,NULL,NULL,HACKNEY,DALSTON,E05009370,Yes
+078076-24062021,2021,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,CROYDON,SHIRLEY NORTH,E05011482,Yes
+078425-25062021,2021,Jun,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,BRENT,Kilburn,E05013503,Yes
+083327-04072021,2021,Jul,Van ,Electricity,"Batteries, generators",Wiring insulation,NULL,Peugeot,RICHMOND UPON THAMES,South Richmond,E05013786,No
+085142-08072021,2021,Jul,Other Lithium Battery,Electricity,Vehicle electrical fault,Other item,NULL,NULL,EALING,Hanger Hill,E05013524,Yes
+085605-09072021,2021,Jul,Other road vehicle,Electricity,"Batteries, generators",Other item,NULL,NULL,LAMBETH,Waterloo & South Bank,E05014118,No
+086137-10072021,2021,Jul,e-bike,Electricity,"Batteries, generators",Other item,NULL,Other,RICHMOND UPON THAMES,Kew,E05013782,No
+086516-11072021,2021,Jul,Motorcycle ,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CAMDEN,Kentish Town South,E05013664,No
+086823-12072021,2021,Jul,Car ,Electricity,"Batteries, generators",Internal Fittings,NULL,Mercedes,HACKNEY,HOMERTON,E05009376,No
+089190-13072021,2021,Jul,e-bike,Electricity,"Batteries, generators",Other item,NULL,Other,NEWHAM,Green Street West,E05013914,Yes
+090361-15072021,2021,Jul,e-bike,Electricity,E-Bike,Other item,NULL,NULL,ISLINGTON,Caledonian,E05013700,Yes
+091062-16072021,2021,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,BEXLEY,BELVEDERE,E05011218,Yes
+094357-21072021,2021,Jul,e-scooter,Electricity,Other,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,College Park & Old Oak,E05013736,Yes
+095525-23072021,2021,Jul,e-bike,Electricity,"Batteries, generators",None,NULL,UNKNOWN,WALTHAM FOREST,Cathall,E05013883,No
+100074-29072021,2021,Jul,e-bike,Electricity,E-Bike,None,NULL,NULL,HACKNEY,STOKE NEWINGTON,E05009385,No
+100358-30072021,2021,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,HOUNSLOW,Heston West,E05013619,Yes
+100805-31072021,2021,Jul,Car ,Electricity,"Batteries, generators",Wiring insulation,NULL,Volkswagen,BARNET,Barnet Vale,E05013628,No
+100807-31072021,2021,Jul,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,HILLINGDON,Heathrow Villages,E05013570,No
+101155-01082021,2021,Aug,e-scooter,Electricity,E-Scooter,Unspecified internal fitting/part of structure,NULL,NULL,BARNET,Golders Green,E05013642,Yes
+101209-01082021,2021,Aug,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HILLINGDON,Colham & Cowley,E05013566,Yes
+101506-01082021,2021,Aug,Other Lithium Battery,Electricity,Computer equipment (domestic use),Other item,NULL,NULL,LAMBETH,Streatham St. Leonard's,E05014115,Yes
+102471-03082021,2021,Aug,e-bike,Electricity,"Batteries, generators",Printed circuit board,NULL,NULL,BARNET,Golders Green,E05013642,Yes
+103849-06082021,2021,Aug,Van ,Electricity,"Batteries, generators",Foam - raw material only,NULL,Fiat,CROYDON,SOUTH CROYDON,E05011484,No
+104618-07082021,2021,Aug,Car ,Electricity,"Batteries, generators",Petrol/Oil products,NULL,Citroen,HILLINGDON,West Drayton,E05013581,No
+106493-11082021,2021,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BRENT,Roundwood,E05013509,Yes
+106664-12082021,2021,Aug,e-bike,Electricity,E-Bike,Other item,NULL,NULL,LAMBETH,Streatham Hill West & Thornton,E05014114,Yes
+107293-13082021,2021,Aug,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,CAMDEN,Camden Town,E05013655,Yes
+107558-14082021,2021,Aug,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,TOWER HAMLETS,Bow West,E05009320,Yes
+109973-18082021,2021,Aug,e-scooter,Electricity,E-Scooter,Unspecified internal fitting/part of structure,NULL,NULL,ISLINGTON,Laycock,E05013708,No
+110299-19082021,2021,Aug,e-bike,Electricity,E-Bike,Not known,NULL,UNKNOWN,MERTON,Colliers Wood,E05013812,No
+111284-21082021,2021,Aug,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,Other,TOWER HAMLETS,St. Peter's,E05009331,No
+111611-22082021,2021,Aug,e-cigarette,Electricity,e-Smoking equipment,Other item,NULL,NULL,HARINGEY,Woodside,E05013605,No
+113547-26082021,2021,Aug,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,MERTON,Wandle,E05013826,Yes
+115646-30082021,2021,Aug,e-bike,Unknown,Other appliance or equipment,Not known,NULL,NULL,SOUTHWARK,BOROUGH & BANKSIDE,E05011095,No
+116966-02092021,2021,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Not known,NULL,NULL,WANDSWORTH,Nine Elms,E05014015,Yes
+117067-02092021,2021,Sep,e-scooter,Electricity,"Batteries, generators",Other item,NULL,NULL,EALING,Southall Broadway,E05013537,Yes
+119861-07092021,2021,Sep,e-scooter,Electricity,"Batteries, generators",Rubbish/Waste material,NULL,Other,GREENWICH,Greenwich Peninsula,E05014082,No
+121965-11092021,2021,Sep,Other Lithium Battery,Other,Other,Not known,NULL,NULL,BARNET,Totteridge & Woodside,E05013646,Yes
+122989-13092021,2021,Sep,Other Lithium Battery,Electricity,Other appliance or equipment,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,Sands End,E05013747,Yes
+124969-18092021,2021,Sep,e-bike,Electricity,E-Bike,Other item,NULL,NULL,GREENWICH,Kidbrooke Park,E05014083,No
+126798-21092021,2021,Sep,Car ,Electricity,"Batteries, generators",Not known,NULL,Mercedes,HARINGEY,Seven Sisters,E05013598,No
+128105-24092021,2021,Sep,Car ,Electricity,"Batteries, generators",Rubber - raw material only,NULL,Skoda,BRENT,Willesden Green,E05013517,No
+128263-24092021,2021,Sep,e-bike,Electricity,E-Bike,Internal Fittings,NULL,NULL,HACKNEY,HOMERTON,E05009376,No
+129685-27092021,2021,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,NEWHAM,East Ham South,E05013910,Yes
+129916-28092021,2021,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,HILLINGDON,Northwood,E05013574,Yes
+130480-29092021,2021,Sep,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,NEWHAM,Canning Town North,E05013906,Yes
+134316-06102021,2021,Oct,e-bike,Electricity,E-Bike,Garden shed,NULL,NULL,HACKNEY,HACKNEY CENTRAL,E05009372,No
+134819-07102021,2021,Oct,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CROYDON,FAIRFIELD,E05011468,No
+136447-10102021,2021,Oct,Other Lithium Battery,Electricity,Other,Household paper/Cardboard,NULL,NULL,CROYDON,PURLEY OAKS & RIDDLESDOWN,E05011477,Yes
+136861-10102021,2021,Oct,e-scooter,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BROMLEY,Darwin,E05013996,No
+137477-12102021,2021,Oct,e-scooter,Electricity,E-Scooter,Capacitor,NULL,Other,WESTMINSTER,West End,E05013808,No
+138069-13102021,2021,Oct,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,ISLINGTON,Laycock,E05013708,No
+139377-16102021,2021,Oct,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,GREENWICH,Eltham Page,E05014077,No
+139647-16102021,2021,Oct,e-bike,Electricity,Other,Other item,NULL,NULL,NEWHAM,Royal Albert,E05013922,Yes
+141230-19102021,2021,Oct,e-scooter,Electricity,"Batteries, generators",Wiring insulation,NULL,UNKNOWN,SOUTHWARK,NORTH WALWORTH,E05011107,No
+142451-21102021,2021,Oct,e-scooter,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,LEWISHAM,Forest Hill,E05013722,No
+144111-25102021,2021,Oct,e-scooter,Electricity,E-Scooter,Window coverings,NULL,NULL,HAVERING,St. Edward's,E05013983,No
+145067-26102021,2021,Oct,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,HARROW,Canons,E05013543,Yes
+145663-28102021,2021,Oct,e-scooter,Electricity,E-Scooter,Not known,Electric batteries,NULL,KINGSTON UPON THAMES,Green Lane & St. James,E05013934,No
+147843-01112021,2021,Nov,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,HARINGEY,South Tottenham,E05013599,Yes
+148037-01112021,2021,Nov,e-scooter,Electricity,"Batteries, generators",Other item,NULL,NULL,HAMMERSMITH AND FULHAM,Fulham Town,E05013739,Yes
+149116-03112021,2021,Nov,e-bike,Electricity,"Batteries, generators",Bed/mattress,NULL,NULL,LEWISHAM,Crofton Park,E05013718,Yes
+149242-04112021,2021,Nov,Other Lithium Battery,Other,Other,Plastic - raw material only,NULL,NULL,BROMLEY,Kelsey & Eden Park,E05013999,Yes
+150783-06112021,2021,Nov,Lorry/HGV ,Electricity,Other,Other item,Electric batteries,Mercedes,GREENWICH,Greenwich Peninsula,E05014082,No
+151936-08112021,2021,Nov,Car ,Electricity,"Batteries, generators",Unspecified external fitting/part of structure,Diesel/Electric Hybrid,Ford,LAMBETH,Vauxhall,E05014117,No
+152381-09112021,2021,Nov,Lorry/HGV ,Electricity,"Batteries, generators",Rubbish/Waste material,Petrol/Electric Hybrid,NULL,WANDSWORTH,St. Mary's,E05014018,No
+153661-12112021,2021,Nov,Other Lithium Battery,Unknown,Not known,Rubbish/Waste material,NULL,NULL,ENFIELD,Ponders End,E05013689,Yes
+153990-12112021,2021,Nov,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,LAMBETH,Brixton Acre Lane,E05014095,Yes
+154491-13112021,2021,Nov,e-bike,Not applicable,Other non-electrical vehicle fault,Plastic - raw material only,Electric batteries,Other,NEWHAM,Maryland,E05013917,No
+155523-16112021,2021,Nov,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Other,BROMLEY,Beckenham Town & Copers Cope,E05013987,No
+155948-16112021,2021,Nov,Car ,Electricity,Extension lead,Unspecified internal fitting/part of structure,Electric batteries,Mercedes,BROMLEY,Crystal Palace & Anerley,E05013995,No
+157811-20112021,2021,Nov,e-scooter,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,NULL,SOUTHWARK,CAMBERWELL GREEN,E05011096,No
+157820-20112021,2021,Nov,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,SUTTON,Stonecot,E05013764,No
+158081-21112021,2021,Nov,e-bike,Electricity,Other,Wiring insulation,NULL,NULL,EALING,Ealing Broadway,E05013520,Yes
+158126-21112021,2021,Nov,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,TOWER HAMLETS,Canary Wharf,E05009323,Yes
+159799-24112021,2021,Nov,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,CROYDON,BENSHAM MANOR,E05011464,No
+160032-25112021,2021,Nov,Car ,Unknown,Not known,Leaves,Diesel/Electric Hybrid,UNKNOWN,ISLINGTON,Caledonian,E05013700,No
+161146-27112021,2021,Nov,Car ,Electricity,Other,Not known,Electric batteries,Other,MERTON,Hillside,E05013816,No
+162982-30112021,2021,Nov,Car ,Not applicable,"Engine, fuel line or pump",Plastic - raw material only,Petrol/Electric Hybrid,Toyota,HARINGEY,South Tottenham,E05013599,No
+166037-07122021,2021,Dec,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,Bow East,E05009319,Yes
+167403-10122021,2021,Dec,Car ,Electricity,Other incandescent light bulbs,Wiring insulation,Petrol/Electric Hybrid,Toyota,HACKNEY,HAGGERSTON,E05009375,No
+168078-11122021,2021,Dec,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,BRENT,Kenton,E05013502,Yes
+169519-14122021,2021,Dec,Bus/coach ,Electricity,Not known,Other item,Diesel/Electric Hybrid,Other,EALING,North Acton,E05013527,No
+172101-19122021,2021,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Upholstered furniture,NULL,NULL,HARINGEY,Northumberland Park,E05013596,Yes
+172989-21122021,2021,Dec,e-bike,Electricity,E-Bike,Plastic - raw material only,Electric batteries,Other,HAVERING,Rush Green & Crowlands,E05013980,No
+173415-22122021,2021,Dec,Other road vehicle,Unknown,Unknown vehicle fault,Rubber - raw material only,Electric batteries,NULL,HAMMERSMITH AND FULHAM,Fulham Town,E05013739,No
+177324-31122021,2021,Dec,e-bike,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,NULL,TOWER HAMLETS,Lansbury,E05009325,No
+000320-01012022,2022,Jan,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,St. Peter's,E05009331,No
+002475-06012022,2022,Jan,Other road vehicle,Electricity,Battery charger,None,Electric batteries,Other,HILLINGDON,Heathrow Villages,E05013570,No
+004742-11012022,2022,Jan,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,WALTHAM FOREST,Forest,E05013887,No
+005100-12012022,2022,Jan,Car ,Unknown,Unknown vehicle fault,Wiring insulation,Petrol/Electric Hybrid,Hyundai,TOWER HAMLETS,Shadwell,E05009332,No
+005163-12012022,2022,Jan,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,ENFIELD,Whitewebbs,E05013695,Yes
+005347-13012022,2022,Jan,e-cigarette,Electricity,e-Smoking equipment,Bed/mattress,NULL,NULL,ENFIELD,Enfield Lock,E05013680,No
+005843-14012022,2022,Jan,e-bike,Electricity,Other,Not known,NULL,NULL,BRENT,Cricklewood & Mapesbury,E05013499,Yes
+007786-18012022,2022,Jan,Other Lithium Battery,Not applicable,Other,Wiring insulation,NULL,NULL,HOUNSLOW,Feltham North,E05013613,Yes
+008132-18012022,2022,Jan,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,WALTHAM FOREST,Leytonstone,E05013897,Yes
+009069-20012022,2022,Jan,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HAMMERSMITH AND FULHAM,White City,E05013752,No
+009668-21012022,2022,Jan,e-bike,Electricity,Other,Other item,NULL,NULL,HARINGEY,White Hart Lane,E05013604,Yes
+010715-23012022,2022,Jan,e-bike,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,UNKNOWN,TOWER HAMLETS,Weavers,E05009335,No
+011558-25012022,2022,Jan,Car ,Not applicable,"Engine, fuel line or pump",Other item,Petrol/Electric Hybrid,Toyota,HOUNSLOW,Brentford East,E05013607,No
+011778-26012022,2022,Jan,Other Lithium Battery,Electricity,Battery charger,Wiring insulation,NULL,NULL,HAMMERSMITH AND FULHAM,Fulham Town,E05013739,Yes
+011827-26012022,2022,Jan,e-bike,Electricity,E-Bike,Other item,Electric batteries,Other,LAMBETH,St. Martin's,E05014109,No
+012020-26012022,2022,Jan,Car ,Electricity,Vehicle electrical fault,Other item,Petrol/Electric Hybrid,Toyota,ENFIELD,Jubilee,E05013684,No
+012838-28012022,2022,Jan,Other Lithium Battery,Not applicable,Not known,Plastic - raw material only,Petrol,Ford,WESTMINSTER,Westbourne,E05013809,Yes
+012926-28012022,2022,Jan,Car ,Not applicable,Liquids; petrol/oil related,Capacitor,Petrol/Electric Hybrid,Toyota,REDBRIDGE,SOUTH WOODFORD,E05011252,No
+015159-01022022,2022,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,LAMBETH,Brixton Acre Lane,E05014095,Yes
+016455-04022022,2022,Feb,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,WESTMINSTER,Church Street,E05013794,Yes
+017010-05022022,2022,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Clothing,Petrol,BMW,TOWER HAMLETS,St. Peter's,E05009331,Yes
+018502-08022022,2022,Feb,Other Lithium Battery,Electricity,Battery charger,Other item,NULL,NULL,BARKING AND DAGENHAM,Northbury,E05014066,Yes
+019210-10022022,2022,Feb,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,REDBRIDGE,CLAYHALL,E05011239,No
+019795-11022022,2022,Feb,Car ,Not applicable,"Lighted paper or card, or other naked flame",Petrol/Oil products,Electric batteries,Mercedes,HACKNEY,HOXTON EAST & SHOREDITCH,E05009377,No
+020692-13022022,2022,Feb,e-bike,Electricity,"Batteries, generators",Upholstered furniture,NULL,NULL,HAMMERSMITH AND FULHAM,Wendell Park,E05013750,Yes
+020745-13022022,2022,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Capacitor,NULL,NULL,BROMLEY,St. Mary Cray,E05014006,Yes
+020947-13022022,2022,Feb,Car ,Electricity,"Wiring, cabling, plugs",Plastic - raw material only,Petrol/Electric Hybrid,Toyota,TOWER HAMLETS,Poplar,E05009328,No
+020973-13022022,2022,Feb,Car ,Electricity,"Wiring, cabling, plugs",Plastic - raw material only,Petrol/Electric Hybrid,Toyota,REDBRIDGE,GOODMAYES,E05011244,No
+021993-15022022,2022,Feb,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,HILLINGDON,Yiewsley,E05013584,Yes
+024765-18022022,2022,Feb,Car ,Electricity,Vehicle electrical fault,Rubber - raw material only,Petrol/Electric Hybrid,Toyota,ENFIELD,Carterhatch,E05013677,No
+025966-20022022,2022,Feb,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,ENFIELD,Bowes,E05013673,No
+027156-23022022,2022,Feb,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,Toyota,ENFIELD,Enfield Lock,E05013680,No
+027661-24022022,2022,Feb,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,Hyundai,BARNET,Colindale North,E05013632,No
+028109-25022022,2022,Feb,Car ,Electricity,"Batteries, generators",Other item,Petrol/Electric Hybrid,Toyota,WESTMINSTER,St. James's,E05013806,No
+030036-28022022,2022,Feb,Bus/coach ,Unknown,"Wiring, cabling, plugs",Not known,Diesel/Electric Hybrid,Other,EALING,Central Greenford,E05013518,No
+031281-03032022,2022,Mar,Car ,Electricity,Other lights,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,WALTHAM FOREST,Higham Hill,E05013892,No
+031674-04032022,2022,Mar,Other road vehicle,Electricity,Vehicle electrical fault,Petrol/Oil products,Electric batteries,NULL,HILLINGDON,Heathrow Villages,E05013570,No
+032850-07032022,2022,Mar,Other Lithium Battery,Not applicable,Not known,Other textiles,NULL,NULL,SOUTHWARK,RYE LANE,E05011113,Yes
+033902-09032022,2022,Mar,Bus/coach ,Unknown,Unknown vehicle fault,Not known,Electric batteries,Other,KINGSTON UPON THAMES,St. Mark's & Seething Wells,E05013943,No
+034004-09032022,2022,Mar,Car ,Not applicable,Wheels or brakes,Other item,Electric batteries,Volkswagen,EALING,North Acton,E05013527,No
+035215-11032022,2022,Mar,Bus/coach ,Unknown,Unknown vehicle fault,Rubber - raw material only,Diesel/Electric Hybrid,UNKNOWN,NEWHAM,Canning Town South,E05013907,No
+035270-11032022,2022,Mar,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,WANDSWORTH,Thamesfield,E05014022,No
+035835-13032022,2022,Mar,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,HARINGEY,Tottenham Central,E05013601,No
+036549-14032022,2022,Mar,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,NEWHAM,West Ham,E05013927,Yes
+037475-16032022,2022,Mar,e-bike,Electricity,E-Bike,Unspecified internal fitting/part of structure,NULL,NULL,NEWHAM,Wall End,E05013926,Yes
+037804-17032022,2022,Mar,Car ,Unknown,Not known,Capacitor,Petrol/Electric Hybrid,Audi,REDBRIDGE,WANSTEAD VILLAGE,E05011255,No
+038018-17032022,2022,Mar,Car ,Not applicable,Not known,Wiring insulation,Petrol/Electric Hybrid,Range Rover,LAMBETH,Waterloo & South Bank,E05014118,No
+039377-20032022,2022,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,WESTMINSTER,St. James's,E05013806,Yes
+039564-20032022,2022,Mar,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,SOUTHWARK,SOUTH BERMONDSEY,E05011116,No
+039623-20032022,2022,Mar,e-bike,Electricity,"Batteries, generators",Not known,Electric batteries,UNKNOWN,TOWER HAMLETS,Weavers,E05009335,No
+039854-21032022,2022,Mar,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Mercedes,SUTTON,St. Helier West,E05013762,No
+040255-22032022,2022,Mar,e-bike,Electricity,Other,Other item,NULL,NULL,GREENWICH,Woolwich Dockyard,E05014094,Yes
+040388-22032022,2022,Mar,Bus/coach ,Not applicable,"Engine, fuel line or pump",Internal Fittings,Diesel/Electric Hybrid,Other,HOUNSLOW,Heston West,E05013619,No
+040520-22032022,2022,Mar,e-bike,Electricity,E-Bike,None,Electric batteries,Other,CROYDON,FAIRFIELD,E05011468,No
+040737-23032022,2022,Mar,e-bike,Electricity,E-Bike,Not known,NULL,NULL,HAMMERSMITH AND FULHAM,College Park & Old Oak,E05013736,Yes
+040859-23032022,2022,Mar,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,Bromley North,E05009321,Yes
+041775-24032022,2022,Mar,Bus/coach ,Not applicable,Exhausts,Household paper/Cardboard,Diesel/Electric Hybrid,UNKNOWN,SOUTHWARK,ST. GEORGE'S,E05011114,No
+042271-25032022,2022,Mar,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,BARNET,Garden Suburb,E05013641,No
+042546-26032022,2022,Mar,Other Lithium Battery,Not applicable,Other,Bedding,NULL,NULL,BRENT,Kenton,E05013502,Yes
+043126-27032022,2022,Mar,e-bike,Electricity,E-Bike,Clothing,NULL,NULL,TOWER HAMLETS,Stepney Green,E05009334,No
+043585-28032022,2022,Mar,Other road vehicle,Other,Not known,Not known,Diesel/Electric Hybrid,UNKNOWN,BARKING AND DAGENHAM,Goresbrook,E05014062,No
+044587-30032022,2022,Mar,e-bike,Electricity,E-Bike,Other item,NULL,NULL,WALTHAM FOREST,Hoe Street,E05013893,Yes
+046063-01042022,2022,Apr,Other Lithium Battery,Not applicable,Cigarette,Bed/mattress,NULL,NULL,KENSINGTON AND CHELSEA,COURTFIELD,E05009393,Yes
+048657-07042022,2022,Apr,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,TOWER HAMLETS,St. Dunstan's,E05009329,Yes
+049861-09042022,2022,Apr,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,GREENWICH,Eltham Page,E05014077,Yes
+050130-10042022,2022,Apr,e-scooter,Unknown,Unknown vehicle fault,Plastic - raw material only,Electric batteries,NULL,HILLINGDON,Uxbridge,E05013580,No
+051957-13042022,2022,Apr,e-bike,Electricity,E-Bike,Other item,NULL,NULL,GREENWICH,Woolwich Common,E05014093,Yes
+052872-15042022,2022,Apr,Lorry/HGV ,Not applicable,Other,Not known,Petrol/Electric Hybrid,Other,HACKNEY,SPRINGFIELD,E05009383,No
+053336-16042022,2022,Apr,Other Lithium Battery,NULL,NULL,NULL,NULL,NULL,HILLINGDON,Heathrow Villages,E05013570,Yes
+057235-23042022,2022,Apr,Car ,Not applicable,"Engine, fuel line or pump",Rubber - raw material only,Petrol/Electric Hybrid,Mercedes,NEWHAM,Beckton,E05013904,No
+058450-25042022,2022,Apr,Bus/coach ,Not applicable,"Engine, fuel line or pump",Other item,Diesel/Electric Hybrid,Other,LAMBETH,Kennington,E05014105,No
+061639-01052022,2022,May,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,BARNET,Cricklewood,E05013634,No
+062046-01052022,2022,May,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,BMW,REDBRIDGE,GOODMAYES,E05011244,No
+062677-03052022,2022,May,e-scooter,Electricity,Other,Plastic - raw material only,NULL,NULL,CROYDON,SHIRLEY NORTH,E05011482,Yes
+062733-03052022,2022,May,Car ,Unknown,Not known,Other item,Petrol/Electric Hybrid,Toyota,HILLINGDON,Heathrow Villages,E05013570,No
+062800-03052022,2022,May,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,KENSINGTON AND CHELSEA,EARL'S COURT,E05009395,Yes
+062978-03052022,2022,May,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,NEWHAM,Royal Albert,E05013922,No
+063043-03052022,2022,May,e-bike,Electricity,"Batteries, generators",Floor coverings,NULL,NULL,KINGSTON UPON THAMES,New Malden Village,E05013940,Yes
+064056-05052022,2022,May,e-bike,Electricity,E-Bike,None,NULL,NULL,GREENWICH,"Mottingham, Coldharbour & New Eltham",E05014086,No
+064275-06052022,2022,May,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HARINGEY,Northumberland Park,E05013596,Yes
+066691-10052022,2022,May,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HARINGEY,Hornsey,E05013593,Yes
+067966-13052022,2022,May,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,WANDSWORTH,Battersea Park,E05014010,Yes
+069231-15052022,2022,May,Car ,Electricity,Vehicle electrical fault,Other/Unspecified furnishings,Petrol/Electric Hybrid,Toyota,EALING,Pitshanger,E05013535,No
+070011-16052022,2022,May,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,HAMMERSMITH AND FULHAM,College Park & Old Oak,E05013736,No
+070494-17052022,2022,May,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,HAMMERSMITH AND FULHAM,Hammersmith Broadway,E05013741,Yes
+071101-18052022,2022,May,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Volkswagen,HARROW,North Harrow,E05013554,No
+075600-26052022,2022,May,Other Lithium Battery,Electricity,Other,Other item,NULL,NULL,KENSINGTON AND CHELSEA,ROYAL HOSPITAL,E05009403,Yes
+076084-27052022,2022,May,Car ,Unknown,Not known,Internal Fittings,Diesel/Electric Hybrid,Volkswagen,REDBRIDGE,FAIRLOP,E05011242,No
+076260-28052022,2022,May,e-bike,Electricity,E-Bike,Printed circuit board,NULL,NULL,LAMBETH,MYATT'S FIELDS,E05014107,No
+077223-29052022,2022,May,Other Lithium Battery,Electricity,Vacuum cleaner,Other item,NULL,NULL,NEWHAM,STRATFORD OLYMPIC PARK,E05013925,Yes
+077806-30052022,2022,May,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,Other,BEXLEY,CRAYFORD,E05011222,No
+079211-02062022,2022,Jun,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,WALTHAM FOREST,LEYTON,E05013896,Yes
+079424-02062022,2022,Jun,Car ,Electricity,Vehicle electrical fault,Other item,Petrol/Electric Hybrid,Mercedes,BRENT,KILBURN,E05013503,No
+079841-03062022,2022,Jun,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,BROMLEY,BROMLEY TOWN,E05013991,No
+080229-04062022,2022,Jun,e-bike,Electricity,Battery charger,Wiring insulation,NULL,NULL,TOWER HAMLETS,BLACKWALL & CUBITT TOWN,E05009318,No
+081197-06062022,2022,Jun,e-bike,Not applicable,Smoking materials,Clothing,NULL,NULL,TOWER HAMLETS,BETHNAL GREEN,E05009317,No
+083018-09062022,2022,Jun,Other Lithium Battery,Electricity,Other heating equipment,Other furniture,NULL,NULL,WANDSWORTH,BALHAM,E05014009,Yes
+083672-11062022,2022,Jun,Car ,Electricity,Vehicle electrical fault,Not known,Petrol/Electric Hybrid,Toyota,KENSINGTON AND CHELSEA,ROYAL HOSPITAL,E05009403,No
+084086-11062022,2022,Jun,Bus/coach ,Other,Other,Other item,Diesel/Electric Hybrid,UNKNOWN,KINGSTON UPON THAMES,COOMBE HILL,E05013932,No
+089324-19062022,2022,Jun,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,SPITALFIELDS & BANGLATOWN,E05009333,Yes
+090297-21062022,2022,Jun,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,SHEPHERD'S BUSH GREEN,E05013748,Yes
+090674-21062022,2022,Jun,Car ,Not applicable,Gases,Floor coverings,Petrol/Electric Hybrid,Other,GREENWICH,ABBEY WOOD,E05014072,No
+092997-25062022,2022,Jun,e-scooter,Electricity,E-Scooter,Not known,NULL,NULL,BARNET,FINCHLEY CHURCH END,E05013639,Yes
+094063-26062022,2022,Jun,Other Lithium Battery,Not applicable,Not known,Unspecified internal fitting/part of structure,NULL,NULL,BROMLEY,BICKLEY & SUNDRIDGE,E05013988,Yes
+095037-28062022,2022,Jun,Multiple Vehicles ,Not applicable,"Engine, fuel line or pump",Other item,Petrol/Electric Hybrid,Mitsubishi,BRENT,DOLLIS HILL,E05013500,No
+095239-28062022,2022,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,HAMMERSMITH AND FULHAM,CONINGHAM,E05013737,Yes
+097310-02072022,2022,Jul,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,BMW,RICHMOND UPON THAMES,TEDDINGTON,E05013788,No
+097968-03072022,2022,Jul,e-scooter,Electricity,"Batteries, generators",Other item,Electric batteries,Other,TOWER HAMLETS,WHITECHAPEL,E05009336,No
+098023-03072022,2022,Jul,e-bike,Electricity,E-Bike,Unspecified internal fitting/part of structure,NULL,NULL,WALTHAM FOREST,WOOD STREET,E05013903,Yes
+099548-06072022,2022,Jul,e-scooter,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,UNKNOWN,EALING,PITSHANGER,E05013535,No
+099752-06072022,2022,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Other item,Diesel/Biodiesel,Other,SOUTHWARK,FARADAY,E05011102,Yes
+099868-06072022,2022,Jul,e-scooter,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,Other,LAMBETH,BRIXTON ACRE LANE,E05014095,No
+100859-08072022,2022,Jul,e-scooter,Not applicable,Matches,Rubber - raw material only,Electric batteries,UNKNOWN,HARINGEY,WEST GREEN,E05013603,No
+101433-08072022,2022,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,MERTON,POLLARDS HILL,E05013821,Yes
+102139-09072022,2022,Jul,e-bike,Electricity,E-Bike,Not known,NULL,NULL,WANDSWORTH,WANDSWORTH COMMON,E05014027,No
+103170-11072022,2022,Jul,Other road vehicle,Electricity,"Batteries, generators",Rubber - raw material only,Electric batteries,Other,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+104761-13072022,2022,Jul,e-scooter,Electricity,"Batteries, generators",Capacitor,NULL,NULL,NEWHAM,GREEN STREET EAST,E05013913,No
+106387-15072022,2022,Jul,Van ,Electricity,Vehicle electrical fault,Wiring insulation,Electric batteries,Other,RICHMOND UPON THAMES,KEW,E05013782,No
+106678-15072022,2022,Jul,e-cigarette,Electricity,e-Smoking equipment,Bedding,NULL,NULL,SUTTON,SOUTH BEDDINGTON & ROUNDSHAW,E05013763,No
+108078-16072022,2022,Jul,e-bike,Electricity,"Wiring, cabling, plugs",Plastic - raw material only,NULL,NULL,WESTMINSTER,QUEEN'S PARK,E05013804,Yes
+108121-17072022,2022,Jul,Car ,Unknown,Unknown vehicle fault,Other item,Petrol/Electric Hybrid,Jaguar/Daimler,HILLINGDON,UXBRIDGE,E05013580,No
+110908-19072022,2022,Jul,Car ,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,BMW,BRENT,PRESTON,E05013506,Yes
+111619-19072022,2022,Jul,e-scooter,Not applicable,Cigarette,Clothing,NULL,NULL,WALTHAM FOREST,ST. JAMES,E05013899,No
+114388-21072022,2022,Jul,e-bike,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,NULL,NEWHAM,MANOR PARK,E05013916,No
+115148-23072022,2022,Jul,Car ,Unknown,Unknown vehicle fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,KINGSTON UPON THAMES,TOLWORTH,E05013945,No
+116044-24072022,2022,Jul,Car ,Not applicable,Wheels or brakes,Rubber - raw material only,Petrol/Electric Hybrid,Toyota,HAVERING,RAINHAM & WENNINGTON,E05013979,No
+118619-26072022,2022,Jul,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,UNKNOWN,KINGSTON UPON THAMES,NEW MALDEN VILLAGE,E05013940,No
+118709-27072022,2022,Jul,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,REDBRIDGE,SOUTH WOODFORD,E05011252,No
+120534-29072022,2022,Jul,Car ,Unknown,Unknown vehicle fault,Not known,Petrol/Electric Hybrid,Other,WESTMINSTER,KNIGHTSBRIDGE & BELGRAVIA,E05013797,No
+120909-30072022,2022,Jul,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,CROYDON,BENSHAM MANOR,E05011464,No
+120938-30072022,2022,Jul,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,HARINGEY,BOUNDS GREEN,E05013586,Yes
+123000-01082022,2022,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified material for recycling,NULL,NULL,HILLINGDON,HAYES TOWN,E05013569,Yes
+123224-02082022,2022,Aug,e-scooter,Electricity,Other domestic style appliance,Wiring insulation,NULL,NULL,WESTMINSTER,PIMLICO NORTH,E05013802,No
+123784-03082022,2022,Aug,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,TOWER HAMLETS,BROMLEY NORTH,E05009321,Yes
+125169-04082022,2022,Aug,Motor Home ,Electricity,"Batteries, generators",Wiring insulation,Unknown,Fiat,BRENT,STONEBRIDGE,E05013510,No
+125282-05082022,2022,Aug,e-bike,Electricity,E-Bike,External fittings,NULL,NULL,BARNET,WOODHOUSE,E05013651,No
+126029-05082022,2022,Aug,Motorcycle ,Not applicable,Liquids; petrol/oil related,Petrol/Oil products,Petrol/Electric Hybrid,Other,GREENWICH,KIDBROOKE PARK,E05014083,No
+126141-06082022,2022,Aug,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,TOWER HAMLETS,ST. DUNSTAN'S,E05009329,Yes
+128573-08082022,2022,Aug,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,WANDSWORTH,BATTERSEA PARK,E05014010,No
+128715-09082022,2022,Aug,Motorcycle ,Not applicable,Liquids; petrol/oil related,Foam - raw material only,Petrol/Electric Hybrid,NULL,HOUNSLOW,HANWORTH VILLAGE,E05013616,No
+128719-09082022,2022,Aug,Car ,Unknown,Not known,Not known,Petrol/Electric Hybrid,Toyota,TOWER HAMLETS,BOW WEST,E05009320,No
+129613-10082022,2022,Aug,Car ,Other,Other,Other textiles,Petrol/Electric Hybrid,Toyota,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+130158-10082022,2022,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,EALING,HANWELL BROADWAY,E05013525,Yes
+131251-11082022,2022,Aug,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,NEWHAM,MARYLAND,E05013917,Yes
+131714-12082022,2022,Aug,Car ,Not applicable,Other,Other item,Petrol/Electric Hybrid,Nissan,CROYDON,FAIRFIELD,E05011468,No
+132165-12082022,2022,Aug,Other Lithium Battery,Electricity,Other,Not known,NULL,NULL,CROYDON,PURLEY & WOODCOTE,E05011476,Yes
+133897-14082022,2022,Aug,e-scooter,Electricity,"Batteries, generators",Not known,NULL,NULL,SUTTON,SUTTON SOUTH,E05013767,Yes
+134035-14082022,2022,Aug,e-bike,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,Other,LAMBETH,BRIXTON WINDRUSH,E05014098,No
+135005-15082022,2022,Aug,Car ,Not applicable,Not known,None,Petrol/Electric Hybrid,Toyota,CAMDEN,BLOOMSBURY,E05013653,No
+135164-15082022,2022,Aug,Car ,Not applicable,Cigarette,Rubbish/Waste material,Petrol/Electric Hybrid,Toyota,EALING,LADY MARGARET,E05013526,No
+135732-16082022,2022,Aug,e-bike,Electricity,E-Bike,Other item,NULL,NULL,WESTMINSTER,QUEEN'S PARK,E05013804,Yes
+135968-16082022,2022,Aug,e-scooter,Electricity,E-Scooter,Rubber - raw material only,NULL,NULL,WALTHAM FOREST,WILLIAM MORRIS,E05013902,No
+136316-17082022,2022,Aug,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HARINGEY,TOTTENHAM CENTRAL,E05013601,No
+136607-17082022,2022,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,BROMLEY,KELSEY & EDEN PARK,E05013999,Yes
+137054-17082022,2022,Aug,e-bike,Electricity,E-Bike,Not known,NULL,NULL,TOWER HAMLETS,ST. KATHARINE'S & WAPPING,E05009330,No
+138317-19082022,2022,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BARNET,UNDERHILL,E05013647,Yes
+138473-19082022,2022,Aug,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CROYDON,FAIRFIELD,E05011468,Yes
+138606-19082022,2022,Aug,Car ,Electricity,Vehicle electrical fault,Other item,Petrol/Electric Hybrid,Toyota,CAMDEN,HOLBORN & COVENT GARDEN,E05013662,No
+138619-19082022,2022,Aug,Multiple Vehicles ,Electricity,"Batteries, generators",Wiring insulation,Petrol/Electric Hybrid,Mercedes,HARINGEY,HARRINGAY,E05013590,No
+138811-20082022,2022,Aug,Bus/coach ,Not applicable,Wheels or brakes,Other item,Diesel/Electric Hybrid,Other,HAVERING,ST. ALBAN'S,E05013981,No
+138837-20082022,2022,Aug,Bus/coach ,Electricity,Vehicle electrical fault,Wiring insulation,Diesel/Electric Hybrid,Volvo,HOUNSLOW,HOUNSLOW WEST,E05013624,No
+139028-20082022,2022,Aug,Car ,Not applicable,"Wiring, cabling, plugs",Plastic - raw material only,Petrol/Electric Hybrid,Nissan,LEWISHAM,LEE GREEN,E05013726,No
+139092-20082022,2022,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Rubbish/Waste material,NULL,NULL,BARKING AND DAGENHAM,PARSLOES,E05014067,Yes
+139420-21082022,2022,Aug,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,KENSINGTON AND CHELSEA,DALGARNO,E05009394,No
+139481-21082022,2022,Aug,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,BRENT,QUEENS PARK,E05013507,No
+140006-22082022,2022,Aug,e-bike,Electricity,"Batteries, generators",Other item,Electric batteries,NULL,HACKNEY,LEA BRIDGE,E05009380,No
+140585-23082022,2022,Aug,Car ,Unknown,Not known,Wiring insulation,Petrol/Electric Hybrid,Toyota,HARINGEY,WOODSIDE,E05013605,No
+142017-25082022,2022,Aug,Car ,Unknown,Unknown vehicle fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,HAMMERSMITH AND FULHAM,BROOK GREEN,E05013735,No
+142254-25082022,2022,Aug,e-cigarette,Electricity,e-Smoking equipment,Other paper product,NULL,NULL,HAVERING,SQUIRREL'S HEATH,E05013985,No
+142375-26082022,2022,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,WESTMINSTER,CHURCH STREET,E05013794,Yes
+142391-26082022,2022,Aug,e-scooter,Electricity,Other appliance or equipment,Household paper/Cardboard,NULL,NULL,HARINGEY,SOUTH TOTTENHAM,E05013599,Yes
+145152-30082022,2022,Aug,e-bike,Electricity,E-Bike,Other item,NULL,NULL,LAMBETH,BRIXTON RUSH COMMON,E05014097,No
+146414-02092022,2022,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,BROMLEY,BROMLEY COMMON & HOLWOOD,E05013990,Yes
+146778-02092022,2022,Sep,e-cigarette,Electricity,e-Smoking equipment,Clothing,NULL,NULL,HAMMERSMITH AND FULHAM,COLLEGE PARK & OLD OAK,E05013736,No
+149258-07092022,2022,Sep,e-scooter,Electricity,E-Scooter,Not known,NULL,NULL,ENFIELD,EDMONTON GREEN,E05013679,No
+149299-07092022,2022,Sep,Other road vehicle,Electricity,"Wiring, cabling, plugs",Not known,Electric batteries,UNKNOWN,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+152549-13092022,2022,Sep,Other Lithium Battery,Electricity,Other lights,Internal Fittings,NULL,NULL,SOUTHWARK,NEWINGTON,E05011105,Yes
+152761-13092022,2022,Sep,Bus/coach ,Not applicable,"Engine, fuel line or pump",Internal Fittings,Diesel/Electric Hybrid,UNKNOWN,BRENT,SUDBURY,E05013511,No
+152951-14092022,2022,Sep,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,WESTMINSTER,HARROW ROAD,E05013795,No
+152970-14092022,2022,Sep,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,WESTMINSTER,HARROW ROAD,E05013795,Yes
+153093-14092022,2022,Sep,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,SHADWELL,E05009332,Yes
+153114-14092022,2022,Sep,e-bike,Electricity,"Batteries, generators",Rubber - raw material only,NULL,NULL,GREENWICH,CHARLTON HORNFAIR,E05014074,No
+154144-16092022,2022,Sep,Other Lithium Battery,Not applicable,Other appliance or equipment,Internal Fittings,NULL,NULL,WALTHAM FOREST,HIGHAM HILL,E05013892,Yes
+154382-16092022,2022,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,TOWER HAMLETS,STEPNEY GREEN,E05009334,Yes
+155013-18092022,2022,Sep,Other Lithium Battery,Electricity,Battery charger,Other item,NULL,NULL,LAMBETH,STREATHAM ST. LEONARD'S,E05014115,Yes
+155616-19092022,2022,Sep,Other Lithium Battery,Electricity,"Wiring, cabling, plugs",Plastic - raw material only,NULL,NULL,WESTMINSTER,ST. JAMES'S,E05013806,Yes
+156050-20092022,2022,Sep,Other Lithium Battery,Electricity,Other lights,Other item,NULL,NULL,HACKNEY,WOODBERRY DOWN,E05009387,Yes
+156255-20092022,2022,Sep,e-bike,Electricity,Vehicle electrical fault,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,CONINGHAM,E05013737,No
+156574-21092022,2022,Sep,e-bike,Unknown,Not known,Plastic - raw material only,Electric batteries,NULL,LAMBETH,BRIXTON ACRE LANE,E05014095,No
+158299-24092022,2022,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Other textiles,NULL,NULL,SUTTON,SUTTON CENTRAL,E05013765,Yes
+160137-27092022,2022,Sep,e-scooter,Electricity,E-Scooter,Internal Fittings,NULL,NULL,SOUTHWARK,ST. GILES,E05011115,No
+161064-29092022,2022,Sep,e-scooter,Electricity,"Batteries, generators",Internal Fittings,Electric batteries,UNKNOWN,CAMDEN,KING'S CROSS,E05013666,Yes
+161389-29092022,2022,Sep,e-bike,Electricity,E-Bike,Other item,NULL,NULL,BRENT,CRICKLEWOOD & MAPESBURY,E05013499,No
+161395-29092022,2022,Sep,Other Lithium Battery,Not applicable,Other,Other item,NULL,NULL,LAMBETH,GIPSY HILL,E05014103,Yes
+161491-30092022,2022,Sep,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,BRENT,WILLESDEN GREEN,E05013517,No
+161507-30092022,2022,Sep,e-bike,Electricity,Battery charger,Plastic - raw material only,NULL,NULL,NEWHAM,WEST HAM,E05013927,No
+161791-30092022,2022,Sep,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,ISLINGTON,CALEDONIAN,E05013700,No
+162659-02102022,2022,Oct,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,NEWHAM,MANOR PARK,E05013916,Yes
+162759-02102022,2022,Oct,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,SOUTHWARK,CAMBERWELL GREEN,E05011096,No
+163730-04102022,2022,Oct,e-scooter,NULL,NULL,NULL,Electric batteries,UNKNOWN, Not geo-coded, Not geo-coded,E00000000,No
+164353-05102022,2022,Oct,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,BRENT,ROUNDWOOD,E05013509,Yes
+164485-05102022,2022,Oct,Bus/coach ,Not applicable,"Engine, fuel line or pump",Plastic - raw material only,Diesel/Electric Hybrid,Other,MERTON,WIMBLEDON PARK,E05013828,No
+165607-07102022,2022,Oct,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,WALTHAM FOREST,HIGH STREET,E05013891,No
+166020-08102022,2022,Oct,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,WANDSWORTH,ST. MARY'S,E05014018,Yes
+166499-08102022,2022,Oct,Car ,Unknown,Unknown vehicle fault,Internal Fittings,Petrol/Electric Hybrid,Honda,BEXLEY,CRAYFORD,E05011222,No
+166624-09102022,2022,Oct,e-bike,Electricity,E-Bike,Other item,NULL,NULL,CAMDEN,CAMDEN SQUARE,E05013654,Yes
+168042-11102022,2022,Oct,Bus/coach ,Unknown,Unknown vehicle fault,Rubber - raw material only,Diesel/Electric Hybrid,UNKNOWN,NEWHAM,CUSTOM HOUSE,E05013908,No
+170024-15102022,2022,Oct,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,NEWHAM,BOLEYN,E05013905,No
+171078-17102022,2022,Oct,Car ,Other,Not known,None,Petrol/Electric Hybrid,Toyota,ENFIELD,RIDGEWAY,E05013690,No
+171829-18102022,2022,Oct,Car ,Not applicable,Liquids; petrol/oil related,Internal Fittings,Petrol/Electric Hybrid,Range Rover,WANDSWORTH,LAVENDER,E05014014,No
+172140-19102022,2022,Oct,Other Lithium Battery,Electricity,Battery charger,Other item,NULL,NULL,TOWER HAMLETS,CANARY WHARF,E05009323,Yes
+172286-19102022,2022,Oct,e-bike,Not applicable,Matches,Plastic - raw material only,Electric batteries,UNKNOWN,BARKING AND DAGENHAM,NORTHBURY,E05014066,No
+172998-20102022,2022,Oct,e-bike,Electricity,E-Bike,Other item,NULL,NULL,CAMDEN,GOSPEL OAK,E05013658,Yes
+173476-21102022,2022,Oct,Bus/coach ,Not applicable,Wheels or brakes,Rubber - raw material only,Diesel/Electric Hybrid,UNKNOWN,HARINGEY,TOTTENHAM CENTRAL,E05013601,No
+173763-22102022,2022,Oct,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HARINGEY,SEVEN SISTERS,E05013598,No
+174488-23102022,2022,Oct,e-scooter,Electricity,E-Scooter,Unspecified internal fitting/part of structure,NULL,NULL,SOUTHWARK,FARADAY,E05011102,Yes
+174729-23102022,2022,Oct,Car ,Unknown,Not known,Other item,Petrol/Electric Hybrid,Toyota,KINGSTON UPON THAMES,KING GEORGE'S & SUNRAY,E05013936,No
+176595-26102022,2022,Oct,Car ,Electricity,"Wiring, cabling, plugs",Wiring insulation,Petrol/Electric Hybrid,BMW,EALING,SOUTH ACTON,E05013536,No
+176939-27102022,2022,Oct,e-bike,Electricity,"Batteries, generators",Petrol/Oil products,NULL,NULL,HARINGEY,HARRINGAY,E05013590,No
+177079-27102022,2022,Oct,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,GREENWICH,GREENWICH PARK,E05014081,Yes
+177297-28102022,2022,Oct,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HILLINGDON,BELMORE,E05013564,Yes
+178034-29102022,2022,Oct,e-bike,Electricity,E-Bike,Wiring insulation,Electric batteries,UNKNOWN,HARINGEY,HARRINGAY,E05013590,Yes
+179308-31102022,2022,Oct,e-bike,Electricity,Battery charger,Wiring insulation,NULL,NULL,CROYDON,THORNTON HEATH,E05011486,No
+182577-06112022,2022,Nov,Other Lithium Battery,Electricity,Lift,Plastic - raw material only,NULL,NULL,HARROW,MARLBOROUGH,E05013553,Yes
+182592-06112022,2022,Nov,Other Lithium Battery,Unknown,Other,Other wooden item,NULL,NULL,CAMDEN,BLOOMSBURY,E05013653,Yes
+183365-07112022,2022,Nov,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,EALING,WALPOLE,E05013541,Yes
+184108-09112022,2022,Nov,e-bike,Electricity,E-Bike,Capacitor,NULL,NULL,EALING,NORTH ACTON,E05013527,No
+184777-10112022,2022,Nov,e-scooter,Electricity,E-Scooter,Printed circuit board,NULL,NULL,BRENT,WEMBLEY HILL,E05013515,Yes
+184967-10112022,2022,Nov,e-bike,Electricity,E-Bike,Other item,NULL,NULL,SOUTHWARK,PECKHAM RYE,E05011111,No
+185828-12112022,2022,Nov,e-bike,Electricity,E-Bike,Chemicals in raw state,NULL,NULL,HARINGEY,SOUTH TOTTENHAM,E05013599,No
+186097-12112022,2022,Nov,Car ,Not applicable,"Engine, fuel line or pump",Other furniture,Petrol/Electric Hybrid,Other,SUTTON,CARSHALTON SOUTH & CLOCKHOUSE,E05013757,No
+186488-13112022,2022,Nov,e-scooter,Electricity,E-Scooter,Wiring insulation,NULL,NULL,BARNET,UNDERHILL,E05013647,Yes
+187466-14112022,2022,Nov,e-bike,Electricity,E-Bike,Unspecified internal fitting/part of structure,NULL,NULL,TOWER HAMLETS,BETHNAL GREEN,E05009317,Yes
+187611-15112022,2022,Nov,Other road vehicle,Unknown,Other industrial equipment,Other item,Petrol/Electric Hybrid,NULL,HARINGEY,NORTHUMBERLAND PARK,E05013596,No
+190884-21112022,2022,Nov,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,ENFIELD,BRIMSDOWN,E05013674,No
+191023-21112022,2022,Nov,Other Lithium Battery,Electricity,Battery charger,Other paper product,NULL,NULL,NEWHAM,EAST HAM SOUTH,E05013910,Yes
+191326-22112022,2022,Nov,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,HARINGEY,WHITE HART LANE,E05013604,Yes
+193215-26112022,2022,Nov,e-scooter,Electricity,Battery charger,Other item,NULL,NULL,HARINGEY,NOEL PARK,E05013595,Yes
+193492-26112022,2022,Nov,e-bike,NULL,NULL,NULL,NULL,NULL,NEWHAM,STRATFORD,E05013924,Yes
+193614-26112022,2022,Nov,e-bike,Electricity,E-Bike,Printed circuit board,NULL,NULL,WALTHAM FOREST,VALLEY,E05013901,No
+193731-27112022,2022,Nov,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,TOWER HAMLETS,MILE END,E05009327,No
+196062-01122022,2022,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,TOWER HAMLETS,WEAVERS,E05009335,Yes
+197187-03122022,2022,Dec,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,EALING,SOUTHALL BROADWAY,E05013537,No
+198027-05122022,2022,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Rubbish/Waste material,NULL,NULL,HILLINGDON,SOUTH RUISLIP,E05013579,Yes
+198745-06122022,2022,Dec,Other Lithium Battery,NULL,NULL,NULL,NULL,NULL,TOWER HAMLETS,ST. PETER'S,E05009331,Yes
+199571-08122022,2022,Dec,Bus/coach ,Not applicable,"Engine, fuel line or pump",Internal Fittings,Diesel/Electric Hybrid,UNKNOWN,HOUNSLOW,HESTON CENTRAL,E05013617,No
+200131-09122022,2022,Dec,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,KINGSTON UPON THAMES,COOMBE HILL,E05013932,No
+200393-09122022,2022,Dec,Van ,Unknown,Not known,None,Diesel/Electric Hybrid,Vauxhall/GM,ISLINGTON,TOLLINGTON,E05013712,No
+200893-10122022,2022,Dec,e-scooter,Not applicable,Cigarette,Bedding,NULL,NULL,CAMDEN,HOLBORN & COVENT GARDEN,E05013662,No
+201733-11122022,2022,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Clothing,NULL,NULL,WESTMINSTER,WEST END,E05013808,Yes
+202363-12122022,2022,Dec,Motorcycle ,Not applicable,Matches,Wiring insulation,Petrol/Electric Hybrid,Honda,RICHMOND UPON THAMES,HEATHFIELD,E05013781,No
+203196-14122022,2022,Dec,e-bike,Electricity,E-Bike,Printed circuit board,NULL,NULL,HOUNSLOW,BRENTFORD WEST,E05013608,No
+205423-17122022,2022,Dec,Bus/coach ,Not applicable,"Engine, fuel line or pump",Internal Fittings,Diesel/Electric Hybrid,Volvo,EALING,GREENFORD BROADWAY,E05013523,No
+206525-18122022,2022,Dec,Motorcycle ,Unknown,Not known,Rubber - raw material only,Petrol/Electric Hybrid,UNKNOWN,GREENWICH,WOOLWICH ARSENAL,E05014092,No
+207462-19122022,2022,Dec,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,NULL,LEWISHAM,DEPTFORD,E05013719,No
+209467-22122022,2022,Dec,e-bike,Gas - mains,Other,Rubber - raw material only,Unknown,UNKNOWN,HOUNSLOW,CHISWICK RIVERSIDE,E05013611,No
+209977-23122022,2022,Dec,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Hyundai,GREENWICH,PLUMSTEAD & GLYNDON,E05014087,No
+210657-24122022,2022,Dec,Lorry/HGV ,Unknown,Not known,Rubbish/Waste material,Electric batteries,NULL,GREENWICH,ELTHAM TOWN & AVERY HILL,E05014079,No
+211274-26122022,2022,Dec,e-bike,Electricity,E-Bike,Printed circuit board,Diesel/Biodiesel,Nissan,BROMLEY,DARWIN,E05013996,No
+211426-26122022,2022,Dec,Car ,Electricity,Not known,Not known,Electric batteries,Nissan,WANDSWORTH,WEST PUTNEY,E05014030,No
+211670-27122022,2022,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Other textiles,NULL,NULL,HAVERING,ST. ANDREW'S,E05013982,Yes
+211830-27122022,2022,Dec,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,GREENWICH,GREENWICH PARK,E05014081,No
+000373-01012023,2023,Jan,e-bike,Electricity,E-Bike,Printed circuit board,Unknown,UNKNOWN,NEWHAM,PLAISTOW NORTH,E05013918,No
+000503-01012023,2023,Jan,e-bike,Electricity,E-Bike,Internal Fittings,NULL,NULL,SOUTHWARK,SOUTH BERMONDSEY,E05011116,No
+001141-03012023,2023,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,NEWHAM,WEST HAM,E05013927,Yes
+001325-03012023,2023,Jan,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,ISLINGTON,FINSBURY PARK,E05013703,No
+001454-03012023,2023,Jan,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CROYDON,NORBURY PARK,E05011473,Yes
+002009-05012023,2023,Jan,e-bike,Electricity,E-Bike,Other item,Electric batteries,UNKNOWN,WESTMINSTER,ST. JAMES'S,E05013806,No
+002344-05012023,2023,Jan,Other road vehicle,Not applicable,Other non-electrical vehicle fault,Plastic - raw material only,Electric batteries,Other,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+002432-06012023,2023,Jan,Bus/coach ,Unknown,Not known,Not known,Diesel/Electric Hybrid,UNKNOWN,HAVERING,RAINHAM & WENNINGTON,E05013979,No
+004087-09012023,2023,Jan,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,Other,REDBRIDGE,ALDBOROUGH,E05011234,No
+004683-10012023,2023,Jan,Car ,Electricity,"Batteries, generators",Plastic - raw material only,Diesel/Electric Hybrid,BMW,GREENWICH,MIDDLE PARK & HORN PARK,E05014085,Yes
+004817-11012023,2023,Jan,Motorcycle ,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,NULL,SOUTHWARK,RYE LANE,E05011113,No
+004855-11012023,2023,Jan,Other Lithium Battery,Not applicable,Other,Rubbish/Waste material,Diesel/Biodiesel,NULL,ISLINGTON,CALEDONIAN,E05013700,Yes
+005334-12012023,2023,Jan,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CAMDEN,BLOOMSBURY,E05013653,Yes
+007211-16012023,2023,Jan,e-bike,Electricity,E-Bike,None,Electric batteries,NULL,BRENT,ROUNDWOOD,E05013509,No
+007664-17012023,2023,Jan,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,UNKNOWN,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+008074-18012023,2023,Jan,Bus/coach ,Not applicable,Wheels or brakes,Rubber - raw material only,Diesel/Electric Hybrid,UNKNOWN,BARKING AND DAGENHAM,WHALEBONE,E05014071,No
+009842-21012023,2023,Jan,e-bike,Electricity,"Batteries, generators",Garden shed,NULL,NULL,NEWHAM,PLAISTOW SOUTH,E05013919,Yes
+009876-21012023,2023,Jan,e-scooter,Electricity,E-Scooter,Wiring insulation,NULL,NULL,LAMBETH,STREATHAM HILL EAST,E05014113,Yes
+010721-22012023,2023,Jan,Other Lithium Battery,Electricity,Battery charger,Plastic - raw material only,NULL,NULL,EALING,WALPOLE,E05013541,Yes
+011105-23012023,2023,Jan,e-scooter,Electricity,Vehicle electrical fault,Internal Fittings,Electric batteries,UNKNOWN,TOWER HAMLETS,SPITALFIELDS & BANGLATOWN,E05009333,No
+011298-23012023,2023,Jan,Other Lithium Battery,Electricity,Other,Internal Fittings,NULL,NULL,ENFIELD,BRIMSDOWN,E05013674,Yes
+011757-24012023,2023,Jan,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,Other,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+012469-25012023,2023,Jan,Bus/coach ,Electricity,Vehicle electrical fault,Not known,Electric batteries,Other,BARNET,FRIERN BARNET,E05013640,No
+012988-26012023,2023,Jan,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,WESTMINSTER,PIMLICO SOUTH,E05013803,Yes
+013629-28012023,2023,Jan,Trailer (not attached to tractor unit),Electricity,Vehicle electrical fault,Plastic - raw material only,Diesel/Electric Hybrid,Other,HAVERING,BEAM PARK,E05013967,No
+014983-30012023,2023,Jan,Car ,Not applicable,"Engine, fuel line or pump",External fittings,Petrol/Electric Hybrid,Hyundai,BARNET,EAST BARNET,E05013635,No
+016515-02022023,2023,Feb,Car ,Not applicable,Exhausts,Internal Fittings,Diesel/Electric Hybrid,Jaguar/Daimler,HARROW,GREENHILL,E05013546,No
+016738-03022023,2023,Feb,Motorcycle ,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,NULL,SOUTHWARK,NUNHEAD & QUEEN'S ROAD,E05011108,No
+017016-03022023,2023,Feb,e-bike,Electricity,"Batteries, generators",Wiring insulation,Unknown,Other,BARKING AND DAGENHAM,VILLAGE,E05014070,No
+018184-05022023,2023,Feb,Bus/coach ,Not applicable,Exhausts,Other item,Diesel/Electric Hybrid,Volvo,MERTON,ABBEY,E05013810,No
+019244-07022023,2023,Feb,Car ,Unknown,Unknown vehicle fault,Foam - raw material only,Diesel/Electric Hybrid,Range Rover,HOUNSLOW,CHISWICK GUNNERSBURY,E05013609,No
+019298-07022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,Electric batteries,Other,NEWHAM,STRATFORD,E05013924,Yes
+019430-08022023,2023,Feb,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,NEWHAM,WALL END,E05013926,No
+019446-08022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,NEWHAM,GREEN STREET EAST,E05013913,Yes
+019873-09022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,REDBRIDGE,HAINAULT,E05011245,Yes
+021388-12022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,CROYDON,ADDISCOMBE WEST,E05011463,No
+021562-12022023,2023,Feb,e-bike,Electricity,"Batteries, generators",Internal Fittings,Electric batteries,Other,CAMDEN,KILBURN,E05013665,No
+021951-13022023,2023,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Printed circuit board,NULL,NULL,BRENT,KINGSBURY,E05013504,Yes
+023486-16022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,BRENT,WILLESDEN GREEN,E05013517,Yes
+023965-17022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,BRENT,STONEBRIDGE,E05013510,Yes
+024309-17022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,CONINGHAM,E05013737,Yes
+024492-17022023,2023,Feb,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,TOWER HAMLETS,WHITECHAPEL,E05009336,Yes
+024763-18022023,2023,Feb,Car ,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,Range Rover,WALTHAM FOREST,HIGHAM HILL,E05013892,No
+025399-19022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,Unknown,UNKNOWN,REDBRIDGE,GOODMAYES,E05011244,No
+025686-20022023,2023,Feb,e-scooter,Electricity,E-Scooter,Internal Fittings,NULL,NULL,CROYDON,SELSDON VALE & FORESTDALE,E05011481,No
+026399-22022023,2023,Feb,Car ,Electricity,"Wiring, cabling, plugs",Rubber - raw material only,Petrol/Electric Hybrid,Volkswagen,BRENT,STONEBRIDGE,E05013510,No
+026507-22022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,LEWISHAM,LEE GREEN,E05013726,Yes
+026835-23022023,2023,Feb,e-scooter,Not applicable,Other,Plastic - raw material only,NULL,NULL,CROYDON,SELHURST,E05011479,Yes
+027077-23022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,SPITALFIELDS & BANGLATOWN,E05009333,Yes
+027739-24022023,2023,Feb,e-bike,Unknown,Not known,Plastic - raw material only,Electric batteries,UNKNOWN,HOUNSLOW,CHISWICK GUNNERSBURY,E05013609,No
+027886-25022023,2023,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,MILE END,E05009327,Yes
+027965-25022023,2023,Feb,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,SOUTHWARK,NORTH WALWORTH,E05011107,Yes
+031287-04032023,2023,Mar,Towing caravan (not on tow or on site),Unknown,Not known,Other textiles,Electric batteries,UNKNOWN,ENFIELD,JUBILEE,E05013684,No
+031486-04032023,2023,Mar,e-bike,Electricity,E-Bike,Capacitor,NULL,NULL,LEWISHAM,CROFTON PARK,E05013718,No
+031817-05032023,2023,Mar,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,SHADWELL,E05009332,Yes
+032227-05032023,2023,Mar,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,BRENT,WEMBLEY HILL,E05013515,No
+033652-09032023,2023,Mar,e-bike,Electricity,E-Bike,Other item,NULL,NULL,ISLINGTON,FINSBURY PARK,E05013703,No
+035337-12032023,2023,Mar,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,LEWISHAM,DEPTFORD,E05013719,No
+035512-12032023,2023,Mar,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,LILLIE,E05013742,No
+038585-18032023,2023,Mar,e-cigarette,Electricity,e-Smoking equipment,Plastic - raw material only,NULL,NULL,BARKING AND DAGENHAM,CHADWELL HEATH,E05014058,No
+038822-19032023,2023,Mar,e-bike,Electricity,E-Bike,Other item,NULL,NULL,LEWISHAM,DEPTFORD,E05013719,Yes
+040103-21032023,2023,Mar,e-bike,NULL,NULL,NULL,NULL,NULL,HACKNEY,HACKNEY DOWNS,E05009373,No
+040168-21032023,2023,Mar,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,Other,TOWER HAMLETS,LANSBURY,E05009325,No
+040224-22032023,2023,Mar,Car ,Not applicable,Liquids; petrol/oil related,Petrol/Oil products,Petrol/Electric Hybrid,BMW,HILLINGDON,HAYES TOWN,E05013569,No
+040689-22032023,2023,Mar,Car ,Electricity,"Wiring, cabling, plugs",Other item,Petrol/Electric Hybrid,Toyota,TOWER HAMLETS,STEPNEY GREEN,E05009334,No
+040767-23032023,2023,Mar,e-scooter,Electricity,"Batteries, generators",Other item,NULL,NULL,WALTHAM FOREST,HOE STREET,E05013893,Yes
+041656-25032023,2023,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Gases,NULL,NULL,ENFIELD,UPPER EDMONTON,E05013694,Yes
+042574-27032023,2023,Mar,e-bike,Electricity,E-Bike,Other item,NULL,NULL,BROMLEY,BECKENHAM TOWN & COPERS COPE,E05013987,Yes
+043052-28032023,2023,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,LAMBETH,OVAL,E05014108,Yes
+043620-29032023,2023,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Other item,Diesel/Biodiesel,NULL,BEXLEY,WEST HEATH,E05011233,Yes
+044155-30032023,2023,Mar,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,HARINGEY,WEST GREEN,E05013603,Yes
+044547-31032023,2023,Mar,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,EALING,NORTH ACTON,E05013527,Yes
+044785-31032023,2023,Mar,e-bike,Electricity,E-Bike,Wiring insulation,Electric batteries,Other,SOUTHWARK,FARADAY,E05011102,No
+046046-03042023,2023,Apr,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,HAMMERSMITH AND FULHAM,BROOK GREEN,E05013735,Yes
+046110-03042023,2023,Apr,Van ,Electricity,"Wiring, cabling, plugs",Internal Fittings,Diesel/Electric Hybrid,Renault,CAMDEN,CAMDEN SQUARE,E05013654,No
+046121-03042023,2023,Apr,e-scooter,Electricity,E-Scooter,Unspecified internal fitting/part of structure,Electric batteries,UNKNOWN,HAVERING,RAINHAM & WENNINGTON,E05013979,No
+046899-04042023,2023,Apr,e-bike,Electricity,E-Bike,Printed circuit board,Electric batteries,Other,WALTHAM FOREST,VALLEY,E05013901,No
+047050-05042023,2023,Apr,Other Lithium Battery,Electricity,Other appliance or equipment,Other item,NULL,NULL,EALING,NORTHFIELD,E05013530,Yes
+047590-06042023,2023,Apr,e-bike,Electricity,E-Bike,Not known,NULL,NULL,EALING,GREENFORD BROADWAY,E05013523,Yes
+048613-08042023,2023,Apr,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BRENT,WEMBLEY HILL,E05013515,Yes
+048668-08042023,2023,Apr,Other Lithium Battery,Electricity,Other,Other item,NULL,NULL,SOUTHWARK,DULWICH VILLAGE,E05011100,Yes
+049057-08042023,2023,Apr,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HACKNEY,STOKE NEWINGTON,E05009385,No
+049144-09042023,2023,Apr,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,HACKNEY,LONDON FIELDS,E05009381,No
+049443-09042023,2023,Apr,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,SOUTHWARK,LONDON BRIDGE & WEST BERMONDSEY,E05011104,Yes
+049639-10042023,2023,Apr,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,BRENT,DOLLIS HILL,E05013500,Yes
+049737-10042023,2023,Apr,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BRENT,WEMBLEY PARK,E05013516,Yes
+049843-10042023,2023,Apr,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,LAMBETH,STREATHAM ST. LEONARD'S,E05014115,No
+050329-11042023,2023,Apr,Other Lithium Battery,Not applicable,Oil/Incense burners,Other/Unspecified furnishings,NULL,NULL,CROYDON,WADDON,E05011487,Yes
+051226-13042023,2023,Apr,Car ,Not applicable,"Engine, fuel line or pump",Internal Fittings,Petrol/Electric Hybrid,Toyota,BARNET,MILL HILL,E05013645,No
+051324-13042023,2023,Apr,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Diesel/Electric Hybrid,Volkswagen,LAMBETH,CLAPHAM PARK,E05014101,No
+051680-14042023,2023,Apr,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,LAMBETH,CLAPHAM COMMON & ABBEVILLE,E05014099,Yes
+053203-17042023,2023,Apr,e-cigarette,Electricity,e-Smoking equipment,Bedding,NULL,NULL,ISLINGTON,LAYCOCK,E05013708,No
+053588-18042023,2023,Apr,Other Lithium Battery,Not applicable,Not known,Not known,NULL,NULL,SUTTON,BEDDINGTON,E05013754,Yes
+054576-20042023,2023,Apr,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,TOWER HAMLETS,POPLAR,E05009328,Yes
+054936-20042023,2023,Apr,Car ,Electricity,"Wiring, cabling, plugs",Plastic - raw material only,Petrol/Electric Hybrid,Toyota,BARNET,WOODHOUSE,E05013651,No
+054988-21042023,2023,Apr,Car ,Unknown,Not known,Foam - raw material only,Petrol/Electric Hybrid,Toyota,REDBRIDGE,CLAYHALL,E05011239,No
+056038-23042023,2023,Apr,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,WHITECHAPEL,E05009336,Yes
+056142-23042023,2023,Apr,Other Lithium Battery,Electricity,Other,Garden shed,NULL,NULL,NEWHAM,PLAISTOW NORTH,E05013918,Yes
+057020-25042023,2023,Apr,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,CAMDEN,KILBURN,E05013665,Yes
+057135-25042023,2023,Apr,Other Lithium Battery,Electricity,"Batteries, generators",Chemicals in raw state,NULL,NULL,BROMLEY,BIGGIN HILL,E05013989,Yes
+059100-29042023,2023,Apr,Car ,Not applicable,Liquids; petrol/oil related,Other item,Petrol/Electric Hybrid,Ford,TOWER HAMLETS,SHADWELL,E05009332,No
+059206-29042023,2023,Apr,e-bike,Electricity,E-Bike,Other item,Electric batteries,UNKNOWN,TOWER HAMLETS,WHITECHAPEL,E05009336,Yes
+059636-29042023,2023,Apr,e-bike,Electricity,E-Bike,Other item,NULL,NULL,KENSINGTON AND CHELSEA,DALGARNO,E05009394,Yes
+060630-01052023,2023,May,Motorcycle ,Not applicable,Matches,Petrol/Oil products,Petrol/Electric Hybrid,NULL,HOUNSLOW,BEDFONT,E05013606,No
+062323-04052023,2023,May,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,HILLINGDON,NORTHWOOD HILLS,E05013575,Yes
+062387-04052023,2023,May,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HAMMERSMITH AND FULHAM,SHEPHERD'S BUSH GREEN,E05013748,No
+062565-05052023,2023,May,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified material for recycling,Diesel/Biodiesel,UNKNOWN,NEWHAM,EAST HAM SOUTH,E05013910,Yes
+062851-05052023,2023,May,Bus/coach ,Not applicable,"Engine, fuel line or pump",Other item,Diesel/Electric Hybrid,Other,CROYDON,WOODSIDE,E05011489,No
+063171-06052023,2023,May,e-bike,Electricity,E-Bike,Other item,NULL,NULL,ISLINGTON,ST. PETER'S & CANALSIDE,E05013711,Yes
+063510-07052023,2023,May,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,ENFIELD,BULLSMOOR,E05013675,No
+064538-08052023,2023,May,e-bike,Electricity,"Batteries, generators",Printed circuit board,Electric batteries,Other,CROYDON,NORBURY & POLLARDS HILL,E05011472,No
+064910-09052023,2023,May,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,CAMDEN,WEST HAMPSTEAD,E05013671,Yes
+065434-10052023,2023,May,Other Lithium Battery,Not applicable,Cigarette lighter,Household paper/Cardboard,NULL,NULL,LEWISHAM,TELEGRAPH HILL,E05013732,Yes
+065625-11052023,2023,May,Other Lithium Battery,Electricity,"Batteries, generators","Paper, cardboard",NULL,NULL,WANDSWORTH,ST. MARY'S,E05014018,Yes
+065937-11052023,2023,May,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Mercedes,EALING,EALING COMMON,E05013521,No
+066756-13052023,2023,May,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,BRENT,HARLESDEN & KENSAL GREEN,E05013501,Yes
+067172-14052023,2023,May,Car ,Not applicable,"Engine, fuel line or pump",Unspecified internal fitting/part of structure,Petrol/Electric Hybrid,Mercedes,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+068073-15052023,2023,May,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,BARNET,FRIERN BARNET,E05013640,No
+068353-16052023,2023,May,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,HACKNEY,SHACKLEWELL,E05009382,Yes
+068867-17052023,2023,May,e-bike,Electricity,E-Bike,Other item,Electric batteries,Other,WESTMINSTER,WESTBOURNE,E05013809,Yes
+068998-17052023,2023,May,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,WESTMINSTER,PIMLICO NORTH,E05013802,Yes
+070618-20052023,2023,May,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,NEWHAM,GREEN STREET WEST,E05013914,Yes
+070966-20052023,2023,May,e-bike,Electricity,E-Bike,Other item,NULL,NULL,WANDSWORTH,ROEHAMPTON,E05014017,Yes
+071385-21052023,2023,May,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,BROMLEY,BIGGIN HILL,E05013989,No
+071855-22052023,2023,May,Other Lithium Battery,Not applicable,Cigarette,Plastic - raw material only,NULL,NULL,HARROW,ROXETH,E05013559,Yes
+072836-24052023,2023,May,e-bike,Electricity,"Wiring, cabling, plugs",Other item,Electric batteries,Other,SOUTHWARK,NORTH BERMONDSEY,E05011106,No
+072868-24052023,2023,May,Lorry/HGV ,Not applicable,Cigarette,Rubbish/Waste material,Petrol/Electric Hybrid,Mercedes,CITY OF LONDON,TOWER,E05009310,No
+072922-24052023,2023,May,e-bike,Electricity,"Batteries, generators",Other item,Electric batteries,Other,HACKNEY,HAGGERSTON,E05009375,Yes
+073281-25052023,2023,May,Car ,Unknown,Not known,Foam - raw material only,Petrol/Electric Hybrid,Toyota,NEWHAM,STRATFORD,E05013924,No
+074337-27052023,2023,May,Bus/coach ,Not applicable,Wheels or brakes,External fittings,Diesel/Electric Hybrid,UNKNOWN,LEWISHAM,RUSHEY GREEN,E05013730,No
+074838-27052023,2023,May,Other Lithium Battery,Electricity,Other appliance or equipment,Plastic - raw material only,NULL,NULL,WALTHAM FOREST,CANN HALL,E05013882,Yes
+075340-28052023,2023,May,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,ISLINGTON,CALEDONIAN,E05013700,Yes
+077086-31052023,2023,May,Other Lithium Battery,Electricity,"Batteries, generators",None,NULL,NULL,HOUNSLOW,OSTERLEY & SPRING GROVE,E05013626,Yes
+078974-03062023,2023,Jun,Bus/coach ,Unknown,Not known,Other item,Diesel/Electric Hybrid,UNKNOWN,LAMBETH,CLAPHAM TOWN,E05014102,No
+079094-03062023,2023,Jun,Bus/coach ,Not applicable,Wheels or brakes,None,Electric batteries,UNKNOWN,WALTHAM FOREST,VALLEY,E05013901,No
+079154-03062023,2023,Jun,e-bike,Not applicable,Smoking materials,Plastic - raw material only,Electric batteries,Other,TOWER HAMLETS,ST. PETER'S,E05009331,No
+080045-05062023,2023,Jun,e-scooter,Not applicable,Candles/Tea lights - Religious use,Not known,NULL,NULL,GREENWICH,EAST GREENWICH,E05014076,No
+081040-06062023,2023,Jun,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HACKNEY,DALSTON,E05009370,Yes
+081173-07062023,2023,Jun,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,KENSINGTON AND CHELSEA,QUEEN'S GATE,E05009401,No
+081330-07062023,2023,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,BARKING AND DAGENHAM,NORTHBURY,E05014066,Yes
+082329-09062023,2023,Jun,Other Lithium Battery,Other,Other,Bed/mattress,NULL,NULL,KINGSTON UPON THAMES,KINGSTON GATE,E05013937,Yes
+082779-09062023,2023,Jun,e-bike,Electricity,E-Bike,None,Electric batteries,UNKNOWN,SUTTON,ST. HELIER WEST,E05013762,No
+083228-10062023,2023,Jun,Other Lithium Battery,Electricity,Other appliance or equipment,Plastic - raw material only,Petrol,Ford,BEXLEY,SIDCUP,E05011230,Yes
+084664-12062023,2023,Jun,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HACKNEY,LEA BRIDGE,E05009380,Yes
+084942-12062023,2023,Jun,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,TOWER HAMLETS,SPITALFIELDS & BANGLATOWN,E05009333,Yes
+086199-14062023,2023,Jun,Other road vehicle,Electricity,Vehicle electrical fault,Wiring insulation,Diesel/Electric Hybrid,UNKNOWN,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+086409-14062023,2023,Jun,Car ,Electricity,"Batteries, generators",Wiring insulation,Diesel/Electric Hybrid,Mercedes,CROYDON,THORNTON HEATH,E05011486,No
+089348-19062023,2023,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,CROYDON,SOUTH CROYDON,E05011484,Yes
+090071-20062023,2023,Jun,Van ,Electricity,"Batteries, generators",Rubbish/Waste material,Petrol/Electric Hybrid,Mitsubishi,CROYDON,WADDON,E05011487,No
+090329-20062023,2023,Jun,e-bike,Electricity,Battery charger,Plastic - raw material only,Electric batteries,NULL,BARNET,CHILDS HILL,E05013631,No
+090360-20062023,2023,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,CITY OF LONDON,BILLINGSGATE,E05009291,Yes
+090531-21062023,2023,Jun,e-bike,Electricity,E-Bike,Capacitor,NULL,NULL,HAMMERSMITH AND FULHAM,AVONMORE,E05013734,No
+090618-21062023,2023,Jun,e-bike,Electricity,E-Bike,Unspecified external fitting/part of structure,NULL,NULL,NEWHAM,,,Yes
+090667-21062023,2023,Jun,e-bike,NULL,NULL,NULL,NULL,NULL,LEWISHAM,TELEGRAPH HILL,E05013732,Yes
+090922-22062023,2023,Jun,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HACKNEY,DALSTON,E05009370,Yes
+090995-22062023,2023,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,NEWHAM,MARYLAND,E05013917,Yes
+091061-22062023,2023,Jun,e-bike,Electricity,E-Scooter,Other item,NULL,NULL,HARINGEY,NORTHUMBERLAND PARK,E05013596,Yes
+091082-22062023,2023,Jun,Other Lithium Battery,Electricity,"Batteries, generators",Grassland/Heath/Scrub,NULL,NULL,WALTHAM FOREST,CANN HALL,E05013882,Yes
+091982-23062023,2023,Jun,e-bike,Electricity,E-Bike,Other item,NULL,NULL,NEWHAM,EAST HAM SOUTH,E05013910,Yes
+092071-23062023,2023,Jun,Bus/coach ,Unknown,Unknown vehicle fault,Internal Fittings,Diesel/Electric Hybrid,Other,HACKNEY,HACKNEY CENTRAL,E05009372,No
+092544-24062023,2023,Jun,e-scooter,Electricity,E-Scooter,None,NULL,NULL,ISLINGTON,MILDMAY,E05013709,No
+092714-24062023,2023,Jun,Bus/coach ,Not applicable,"Engine, fuel line or pump",Internal Fittings,Diesel/Electric Hybrid,UNKNOWN,CROYDON,FAIRFIELD,E05011468,No
+092733-24062023,2023,Jun,e-bike,Electricity,E-Bike,Gases,Electric batteries,UNKNOWN,WALTHAM FOREST,WOOD STREET,E05013903,Yes
+092785-24062023,2023,Jun,e-bike,Not applicable,"Lighted paper or card, or other naked flame",Plastic - raw material only,Electric batteries,Other,SOUTHWARK,OLD KENT ROAD,E05011109,No
+093364-25062023,2023,Jun,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Electric batteries,Mercedes,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+093516-25062023,2023,Jun,e-bike,Electricity,E-Bike,Other item,NULL,NULL,WESTMINSTER,QUEEN'S PARK,E05013804,No
+093680-25062023,2023,Jun,Other Lithium Battery,Electricity,Other domestic style appliance,Other item,NULL,NULL,HACKNEY,STAMFORD HILL WEST,E05009384,Yes
+096118-29062023,2023,Jun,e-bike,Electricity,E-Bike,Gases,NULL,NULL,HAMMERSMITH AND FULHAM,AVONMORE,E05013734,No
+099435-05072023,2023,Jul,Lorry/HGV ,Electricity,"Batteries, generators",Wiring insulation,Petrol/Electric Hybrid,Other,BARNET,CRICKLEWOOD,E05013634,No
+099930-06072023,2023,Jul,e-bike,Electricity,E-Bike,Other item,NULL,NULL,CAMDEN,GOSPEL OAK,E05013658,Yes
+100078-06072023,2023,Jul,e-scooter,Electricity,E-Scooter,Internal Fittings,Electric batteries,NULL,HACKNEY,SPRINGFIELD,E05009383,No
+100273-06072023,2023,Jul,Other Lithium Battery,Electricity,Battery charger,Other item,NULL,NULL,LAMBETH,STOCKWELL EAST,E05014110,Yes
+100292-06072023,2023,Jul,Other Lithium Battery,Not applicable,Other,Garden shed,NULL,NULL,HOUNSLOW,FELTHAM NORTH,E05013613,Yes
+100668-07072023,2023,Jul,Lorry/HGV ,Not applicable,Other non-electrical vehicle fault,Wiring insulation,Petrol/Electric Hybrid,UNKNOWN,SOUTHWARK,SOUTH BERMONDSEY,E05011116,No
+101144-07072023,2023,Jul,e-bike,Not applicable,Matches,Rubbish/Waste material,Electric batteries,UNKNOWN,TOWER HAMLETS,BROMLEY NORTH,E05009321,No
+101210-08072023,2023,Jul,e-bike,Electricity,"Batteries, generators",Gases,Electric batteries,UNKNOWN,WESTMINSTER,LITTLE VENICE,E05013799,No
+101573-08072023,2023,Jul,e-bike,Unknown,Not known,Not known,Electric batteries,Other,TOWER HAMLETS,BROMLEY NORTH,E05009321,No
+102415-10072023,2023,Jul,Bus/coach ,Not applicable,"Engine, fuel line or pump",Internal Fittings,Diesel/Electric Hybrid,Other,MERTON,POLLARDS HILL,E05013821,No
+102446-10072023,2023,Jul,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,NEWHAM,,,No
+103097-10072023,2023,Jul,Other Lithium Battery,Unknown,Not known,Bedding,NULL,NULL,BARNET,BURNT OAK,E05013630,Yes
+103554-11072023,2023,Jul,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,Other,EALING,GREENFORD BROADWAY,E05013523,No
+103976-12072023,2023,Jul,e-scooter,Electricity,E-Scooter,Rubbish/Waste material,NULL,NULL,GREENWICH,WOOLWICH COMMON,E05014093,No
+104526-13072023,2023,Jul,e-bike,Not applicable,Matches,Grassland/Heath/Scrub,Electric batteries,NULL,GREENWICH,THAMESMEAD MOORINGS,E05014090,No
+104854-14072023,2023,Jul,e-bike,Electricity,"Batteries, generators",Gases,NULL,NULL,HACKNEY,HOXTON EAST & SHOREDITCH,E05009377,Yes
+105473-15072023,2023,Jul,e-bike,Electricity,E-Bike,Rubber - raw material only,NULL,NULL,HACKNEY,LEA BRIDGE,E05009380,No
+106009-15072023,2023,Jul,e-bike,Not applicable,Matches,Plastic - raw material only,Electric batteries,UNKNOWN,TOWER HAMLETS,BROMLEY NORTH,E05009321,No
+106106-16072023,2023,Jul,e-bike,Electricity,E-Bike,Other item,NULL,NULL,LAMBETH,STREATHAM WELLS,E05014116,Yes
+106154-16072023,2023,Jul,Car ,Not applicable,Wheels or brakes,External fittings,Electric batteries,Other,REDBRIDGE,VALENTINES,E05011253,No
+106287-16072023,2023,Jul,Other Lithium Battery,Electricity,Other appliance or equipment,Other item,NULL,NULL,CAMDEN,KING'S CROSS,E05013666,Yes
+106637-17072023,2023,Jul,e-bike,Electricity,E-Bike,Other item,NULL,NULL,REDBRIDGE,CLEMENTSWOOD,E05011240,Yes
+107361-18072023,2023,Jul,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,LAMBETH,VAUXHALL,E05014117,Yes
+107652-18072023,2023,Jul,e-bike,Electricity,E-Bike,Printed circuit board,Electric batteries,Other,SOUTHWARK,NEWINGTON,E05011105,Yes
+107741-18072023,2023,Jul,Other road vehicle,Electricity,"Batteries, generators",Internal Fittings,Electric batteries,NULL,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+107956-19072023,2023,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,Diesel/Biodiesel,Volkswagen,HILLINGDON,NORTHWOOD,E05013574,Yes
+109332-21072023,2023,Jul,e-bike,Electricity,"Batteries, generators",Rubbish/Waste material,NULL,NULL,SOUTHWARK,NORTH WALWORTH,E05011107,Yes
+109498-21072023,2023,Jul,e-bike,Electricity,E-Bike,Unspecified internal fitting/part of structure,Electric batteries,Other,BRENT,KENTON,E05013502,No
+109539-21072023,2023,Jul,e-bike,NULL,NULL,NULL,NULL,NULL,SOUTHWARK,FARADAY,E05011102,Yes
+110851-24072023,2023,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,BROMLEY,ST. PAUL'S CRAY,E05014007,Yes
+110969-24072023,2023,Jul,Other Lithium Battery,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,HILLINGDON,HILLINGDON EAST,E05013571,Yes
+111108-24072023,2023,Jul,e-bike,Not applicable,Cigarette lighter,Clothing,Electric batteries,Other,SOUTHWARK,NORTH BERMONDSEY,E05011106,No
+111600-25072023,2023,Jul,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,NULL,ENFIELD,BOWES,E05013673,No
+112915-27072023,2023,Jul,e-cigarette,Electricity,e-Smoking equipment,Bedding,NULL,NULL,HAMMERSMITH AND FULHAM,COLLEGE PARK & OLD OAK,E05013736,No
+113428-28072023,2023,Jul,e-bike,Not applicable,"Lighted paper or card, or other naked flame",Other paper product,Electric batteries,Other,BRENT,DOLLIS HILL,E05013500,No
+113529-28072023,2023,Jul,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,CROYDON,WADDON,E05011487,Yes
+115037-31072023,2023,Jul,e-bike,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,NULL,HARINGEY,SOUTH TOTTENHAM,E05013599,No
+115609-01082023,2023,Aug,e-bike,Electricity,E-Bike,Other item,Electric batteries,Other,MERTON,WANDLE,E05013826,Yes
+116933-03082023,2023,Aug,Bus/coach ,Not applicable,Wheels or brakes,None,Diesel/Electric Hybrid,NULL,BARKING AND DAGENHAM,GASCOIGNE,E05014061,No
+118068-05082023,2023,Aug,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,TOWER HAMLETS,STEPNEY GREEN,E05009334,No
+118226-06082023,2023,Aug,e-scooter,Electricity,E-Scooter,Internal Fittings,NULL,NULL,BRENT,KILBURN,E05013503,Yes
+119547-08082023,2023,Aug,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,HARROW,WEALDSTONE NORTH,E05013561,Yes
+121406-11082023,2023,Aug,Car ,Not applicable,"Engine, fuel line or pump",None,Petrol/Electric Hybrid,Mitsubishi,WALTHAM FOREST,LEYTONSTONE,E05013897,No
+121815-12082023,2023,Aug,e-bike,Electricity,E-Bike,Wiring insulation,Electric batteries,Other,KENSINGTON AND CHELSEA,CHELSEA RIVERSIDE,E05009391,No
+122258-13082023,2023,Aug,e-bike,Electricity,"Batteries, generators",Internal Fittings,NULL,NULL,SOUTHWARK,CAMBERWELL GREEN,E05011096,No
+122383-13082023,2023,Aug,e-bike,Electricity,E-Bike,Rubber - raw material only,Electric batteries,Other,SOUTHWARK,SURREY DOCKS,E05011117,No
+123049-14082023,2023,Aug,Bus/coach ,Electricity,Not known,Not known,Diesel/Electric Hybrid,UNKNOWN,BRENT,DOLLIS HILL,E05013500,No
+123607-15082023,2023,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Chemicals in raw state,NULL,NULL,LAMBETH,STREATHAM COMMON & VALE,E05014112,Yes
+123738-15082023,2023,Aug,e-bike,Unknown,Not known,Other item,Electric batteries,UNKNOWN,SOUTHWARK,LONDON BRIDGE & WEST BERMONDSEY,E05011104,Yes
+124087-16082023,2023,Aug,Bus/coach ,Electricity,"Batteries, generators",Printed circuit board,Electric batteries,NULL,LAMBETH,BRIXTON RUSH COMMON,E05014097,Yes
+124399-17082023,2023,Aug,e-bike,Not applicable,Cigarette lighter,External fittings,Electric batteries,Other,HACKNEY,HOXTON WEST,E05009378,No
+124632-17082023,2023,Aug,e-bike,Not applicable,Matches,Not known,Electric batteries,UNKNOWN,BROMLEY,ST. PAUL'S CRAY,E05014007,No
+125332-18082023,2023,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Other furniture,NULL,NULL,LAMBETH,KNIGHT'S HILL,E05014106,Yes
+125982-19082023,2023,Aug,e-bike,Electricity,E-Bike,Internal Fittings,Electric batteries,Other,EALING,EAST ACTON,E05013522,No
+126798-21082023,2023,Aug,Bus/coach ,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,Other,CITY OF LONDON,COLEMAN STREET,E05009299,No
+127059-21082023,2023,Aug,e-cigarette,Electricity,e-Smoking equipment,Bed/mattress,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+127690-22082023,2023,Aug,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HARINGEY,NORTHUMBERLAND PARK,E05013596,Yes
+128041-23082023,2023,Aug,e-bike,Electricity,E-Bike,Other furniture,NULL,NULL,BRENT,DOLLIS HILL,E05013500,Yes
+128077-23082023,2023,Aug,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,HAMMERSMITH AND FULHAM,WEST KENSINGTON,E05013751,No
+128140-23082023,2023,Aug,e-bike,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,UNKNOWN,WALTHAM FOREST,CANN HALL,E05013882,No
+128454-24082023,2023,Aug,Car ,Other,Not known,Other item,Petrol/Electric Hybrid,Mercedes,BEXLEY,ERITH,E05011225,No
+128611-24082023,2023,Aug,e-bike,Electricity,E-Bike,Gases,NULL,NULL,TOWER HAMLETS,LANSBURY,E05009325,Yes
+129102-25082023,2023,Aug,Other Lithium Battery,Not applicable,Candles/Tea lights - Secondary lighting,Plastic - raw material only,NULL,NULL,HARINGEY,HERMITAGE & GARDENS,E05013591,Yes
+129687-25082023,2023,Aug,e-bike,Electricity,"Batteries, generators",Garden shed,NULL,NULL,LEWISHAM,DEPTFORD,E05013719,Yes
+130372-27082023,2023,Aug,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,LAMBETH,BRIXTON RUSH COMMON,E05014097,Yes
+130748-27082023,2023,Aug,Car ,Unknown,Unknown vehicle fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,CITY OF LONDON,CASTLE BAYNARD,E05009297,No
+131861-29082023,2023,Aug,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,NEWHAM,ROYAL ALBERT,E05013922,Yes
+132202-30082023,2023,Aug,e-bike,Electricity,E-Bike,Other item,Electric batteries,Other,HOUNSLOW,BEDFONT,E05013606,No
+132324-30082023,2023,Aug,e-scooter,Electricity,Other appliance or equipment,Other item,Electric batteries,NULL,BEXLEY,CRAYFORD,E05011222,No
+132357-30082023,2023,Aug,e-bike,Electricity,"Batteries, generators",Other item,Electric batteries,UNKNOWN,EALING,PERIVALE,E05013534,Yes
+132687-31082023,2023,Aug,Other Lithium Battery,NULL,NULL,NULL,NULL,NULL,WANDSWORTH,WEST PUTNEY,E05014030,Yes
+133215-01092023,2023,Sep,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+133483-01092023,2023,Sep,e-cigarette,Electricity,e-Smoking equipment,Bedding,NULL,NULL,SUTTON,CARSHALTON SOUTH & CLOCKHOUSE,E05013757,No
+133489-01092023,2023,Sep,e-bike,NULL,NULL,NULL,NULL,NULL,SOUTHWARK,LONDON BRIDGE & WEST BERMONDSEY,E05011104,No
+134346-03092023,2023,Sep,Bus/coach ,Not applicable,Wheels or brakes,Other item,Diesel/Electric Hybrid,UNKNOWN,SOUTHWARK,LONDON BRIDGE & WEST BERMONDSEY,E05011104,No
+135293-04092023,2023,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Gases,NULL,NULL,HILLINGDON,WEST DRAYTON,E05013581,Yes
+136215-06092023,2023,Sep,Car ,Not applicable,"Engine, fuel line or pump",Other item,Petrol/Electric Hybrid,Volkswagen,NEWHAM,PLAISTOW WEST & CANNING TOWN EAST,E05013920,No
+136277-06092023,2023,Sep,e-scooter,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,SOUTHWARK,FARADAY,E05011102,No
+136502-06092023,2023,Sep,e-scooter,Electricity,E-Scooter,Not known,Electric batteries,Other,WANDSWORTH,SHAFTESBURY & QUEENSTOWN,E05014019,No
+137308-07092023,2023,Sep,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Diesel/Electric Hybrid,BMW,BARNET,TOTTERIDGE & WOODSIDE,E05013646,No
+137654-08092023,2023,Sep,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,LAMBETH,HERNE HILL & LOUGHBOROUGH JUNCTION,E05014104,Yes
+138123-08092023,2023,Sep,e-bike,Electricity,E-Bike,Capacitor,Electric batteries,Other,LAMBETH,STREATHAM HILL WEST & THORNTON,E05014114,No
+138817-09092023,2023,Sep,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,WESTMINSTER,ST. JAMES'S,E05013806,Yes
+139319-10092023,2023,Sep,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,HARINGEY,NOEL PARK,E05013595,Yes
+139404-10092023,2023,Sep,e-bike,Electricity,E-Bike,Other item,NULL,NULL,BROMLEY,CRYSTAL PALACE & ANERLEY,E05013995,Yes
+140686-12092023,2023,Sep,e-bike,Electricity,E-Bike,Other item,NULL,NULL,ISLINGTON,HILLRISE,E05013705,Yes
+140910-12092023,2023,Sep,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,TOWER HAMLETS,WHITECHAPEL,E05009336,No
+141399-13092023,2023,Sep,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,BOW EAST,E05009319,Yes
+141615-13092023,2023,Sep,Other road vehicle,Electricity,"Batteries, generators",Plastic - raw material only,Electric batteries,Other,MERTON,WEST BARNES,E05013827,No
+141695-14092023,2023,Sep,e-bike,Not applicable,Liquids; petrol/oil related,Plastic - raw material only,Electric batteries,Other,LAMBETH,WATERLOO & SOUTH BANK,E05014118,No
+142207-14092023,2023,Sep,e-bike,Not applicable,Cigarette lighter,Rubbish/Waste material,Electric batteries,Other,HILLINGDON,RUISLIP MANOR,E05013578,No
+142895-15092023,2023,Sep,e-bike,Electricity,"Batteries, generators",Other item,Electric batteries,UNKNOWN,CITY OF LONDON,TOWER,E05009310,Yes
+143337-16092023,2023,Sep,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,SOUTHWARK,PECKHAM RYE,E05011111,Yes
+143673-17092023,2023,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,KENSINGTON AND CHELSEA,STANLEY,E05009405,Yes
+143711-17092023,2023,Sep,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+143774-17092023,2023,Sep,Other Lithium Battery,Electricity,Other appliance or equipment,Plastic - raw material only,NULL,NULL,HOUNSLOW,HOUNSLOW HEATH,E05013622,Yes
+144368-18092023,2023,Sep,Bus/coach ,Unknown,Unknown vehicle fault,Not known,Petrol/Electric Hybrid,UNKNOWN,HARINGEY,CROUCH END,E05013588,No
+145111-19092023,2023,Sep,Other Lithium Battery,Not applicable,Flammable chemicals,Other textiles,NULL,NULL,BEXLEY,SLADE GREEN & NORTHEND,E05011231,Yes
+145977-20092023,2023,Sep,e-bike,Electricity,"Batteries, generators",Not known,Electric batteries,Other,TOWER HAMLETS,LANSBURY,E05009325,No
+146359-21092023,2023,Sep,Bus/coach ,Not applicable,Not known,Wiring insulation,Diesel/Electric Hybrid,Other,WESTMINSTER,KNIGHTSBRIDGE & BELGRAVIA,E05013797,No
+146931-22092023,2023,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,BROMLEY,CHISLEHURST,E05013993,Yes
+147547-23092023,2023,Sep,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,HARINGEY,NORTHUMBERLAND PARK,E05013596,Yes
+148097-24092023,2023,Sep,Car ,Electricity,"Batteries, generators",Rubber - raw material only,Petrol/Electric Hybrid,BMW,ENFIELD,NEW SOUTHGATE,E05013686,No
+149151-26092023,2023,Sep,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,KINGSTON UPON THAMES,COOMBE HILL,E05013932,Yes
+149324-26092023,2023,Sep,Other Lithium Battery,Unknown,Not known,Unspecified material for recycling,NULL,NULL,NEWHAM,ROYAL ALBERT,E05013922,Yes
+149574-26092023,2023,Sep,e-bike,Electricity,Battery charger,Upholstered furniture,NULL,NULL,BARKING AND DAGENHAM,CHADWELL HEATH,E05014058,No
+149685-27092023,2023,Sep,e-bike,Electricity,E-Bike,Internal Fittings,NULL,NULL,NEWHAM,,,No
+149709-27092023,2023,Sep,Lorry/HGV ,Electricity,Battery charger,Rubbish/Waste material,Petrol/Electric Hybrid,Volvo,ISLINGTON,FINSBURY PARK,E05013703,No
+149827-27092023,2023,Sep,Other road vehicle,Electricity,"Batteries, generators",Rubber - raw material only,Electric batteries,UNKNOWN,NEWHAM,STRATFORD,E05013924,No
+151173-29092023,2023,Sep,Bus/coach ,Electricity,Vehicle electrical fault,Wiring insulation,Diesel/Electric Hybrid,Volvo,BARNET,GARDEN SUBURB,E05013641,No
+151285-29092023,2023,Sep,e-bike,Unknown,Not known,Household paper/Cardboard,Electric batteries,Other,RICHMOND UPON THAMES,WEST TWICKENHAM,E05013790,No
+151422-29092023,2023,Sep,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Mitsubishi,ENFIELD,UPPER EDMONTON,E05013694,No
+151574-30092023,2023,Sep,Other Lithium Battery,Electricity,Vacuum cleaner,Unspecified internal fitting/part of structure,NULL,NULL,BEXLEY,SIDCUP,E05011230,Yes
+152481-01102023,2023,Oct,e-scooter,Electricity,E-Scooter,None,NULL,NULL,KENSINGTON AND CHELSEA,ST. HELEN'S,E05009404,No
+152649-02102023,2023,Oct,Car ,Electricity,"Batteries, generators",Plastic - raw material only,Diesel/Electric Hybrid,Toyota,GREENWICH,ELTHAM PARK & PROGRESS,E05014078,No
+152901-02102023,2023,Oct,Bus/coach ,Not applicable,Wheels or brakes,External fittings,Diesel/Electric Hybrid,Other,SOUTHWARK,ST. GILES,E05011115,No
+153127-02102023,2023,Oct,Bus/coach ,Not applicable,Other non-electrical vehicle fault,Unspecified internal fitting/part of structure,Diesel/Electric Hybrid,Other,LAMBETH,CLAPHAM PARK,E05014101,No
+153737-03102023,2023,Oct,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,LAMBETH,CLAPHAM EAST,E05014100,Yes
+155909-07102023,2023,Oct,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,BMW,LAMBETH,CLAPHAM COMMON & ABBEVILLE,E05014099,No
+156559-08102023,2023,Oct,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,BARKING AND DAGENHAM,CHADWELL HEATH,E05014058,No
+156793-09102023,2023,Oct,e-bike,Electricity,E-Bike,Rubbish/Waste material,Diesel/Biodiesel,Other,SOUTHWARK,ROTHERHITHE,E05011112,Yes
+158509-11102023,2023,Oct,e-cigarette,Electricity,e-Smoking equipment,Other paper product,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+158529-11102023,2023,Oct,Motorcycle ,Not applicable,Liquids; petrol/oil related,Petrol/Oil products,Petrol/Electric Hybrid,UNKNOWN,GREENWICH,CHARLTON VILLAGE & RIVERSIDE,E05014075,No
+159337-13102023,2023,Oct,e-scooter,Electricity,E-Scooter,Wiring insulation,NULL,NULL,ISLINGTON,TUFNELL PARK,E05013713,No
+159442-13102023,2023,Oct,Lorry/HGV ,Electricity,"Batteries, generators",Not known,Diesel/Electric Hybrid,UNKNOWN,LAMBETH,VAUXHALL,E05014117,No
+159487-13102023,2023,Oct,e-bike,Electricity,"Batteries, generators",Rubbish/Waste material,NULL,NULL,WALTHAM FOREST,LARKSWOOD,E05013894,Yes
+159660-13102023,2023,Oct,Car ,Electricity,"Wiring, cabling, plugs",Wiring insulation,Diesel/Electric Hybrid,BMW,BROMLEY,CRYSTAL PALACE & ANERLEY,E05013995,No
+159906-13102023,2023,Oct,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,SOUTHWARK,CHAUCER,E05011098,Yes
+160100-14102023,2023,Oct,e-bike,Electricity,E-Scooter,Other item,Electric batteries,UNKNOWN,SUTTON,SUTTON NORTH,E05013766,No
+160323-14102023,2023,Oct,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Electric batteries,BMW,HARINGEY,ST. ANN'S,E05013597,No
+160903-15102023,2023,Oct,e-bike,Unknown,Not known,Rubber - raw material only,Electric batteries,Other,CITY OF LONDON,FARRINGDON WITHIN,E05009304,No
+160933-15102023,2023,Oct,Car ,Electricity,"Wiring, cabling, plugs",Other item,Electric batteries,Vauxhall/GM,TOWER HAMLETS,BOW EAST,E05009319,No
+161240-16102023,2023,Oct,Other Lithium Battery,Electricity,"Batteries, generators",Rubbish/Waste material,Diesel/Biodiesel,Other,SOUTHWARK,NORTH WALWORTH,E05011107,Yes
+161632-16102023,2023,Oct,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,WALTHAM FOREST,FOREST,E05013887,Yes
+161635-16102023,2023,Oct,e-bike,Electricity,"Batteries, generators",Other item,Electric batteries,NULL,HAMMERSMITH AND FULHAM,ADDISON,E05013733,Yes
+161797-17102023,2023,Oct,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Mercedes,LAMBETH,GIPSY HILL,E05014103,No
+162594-18102023,2023,Oct,e-bike,Electricity,E-Scooter,Rubber - raw material only,Electric batteries,Other,LEWISHAM,CATFORD SOUTH,E05013717,No
+164113-20102023,2023,Oct,e-bike,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,WESTMINSTER,HYDE PARK,E05013796,No
+165038-22102023,2023,Oct,Other Lithium Battery,Electricity,Audio equipment,Plastic - raw material only,NULL,NULL,ENFIELD,LOWER EDMONTON,E05013685,Yes
+165511-23102023,2023,Oct,Other Lithium Battery,Electricity,Battery charger,Internal Fittings,NULL,NULL,KINGSTON UPON THAMES,KINGSTON TOWN,E05013938,Yes
+165656-23102023,2023,Oct,e-bike,Electricity,E-Bike,Internal Fittings,Electric batteries,Other,ISLINGTON,CANONBURY,E05013701,No
+166145-24102023,2023,Oct,e-cigarette,Electricity,e-Smoking equipment,"Paper, cardboard",NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+166259-24102023,2023,Oct,Van ,Other,Other cooking appliance,Internal Fittings,Diesel/Electric Hybrid,Mercedes,REDBRIDGE,FAIRLOP,E05011242,No
+166842-25102023,2023,Oct,e-bike,Electricity,Other,Other item,Electric batteries,UNKNOWN,BARKING AND DAGENHAM,GASCOIGNE,E05014061,Yes
+167097-26102023,2023,Oct,e-bike,Electricity,Other,Other item,NULL,NULL,LAMBETH,BRIXTON RUSH COMMON,E05014097,No
+167900-27102023,2023,Oct,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,EALING,NORTHOLT MANDEVILLE,E05013531,No
+168581-28102023,2023,Oct,e-scooter,Electricity,E-Scooter,"Paint, varnish, resins, creosote",NULL,NULL,BRENT,DOLLIS HILL,E05013500,No
+169054-29102023,2023,Oct,Other Lithium Battery,Electricity,Other,Other item,NULL,NULL,NEWHAM,PLAISTOW NORTH,E05013918,Yes
+169240-29102023,2023,Oct,e-bike,Electricity,"Batteries, generators",Other wooden item,Electric batteries,NULL,NEWHAM,EAST HAM SOUTH,E05013910,No
+169316-30102023,2023,Oct,e-scooter,Electricity,E-Scooter,Gases,NULL,NULL,BARNET,COLINDALE SOUTH,E05013633,No
+170855-01112023,2023,Nov,e-cigarette,Electricity,e-Smoking equipment,Other paper product,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+171264-02112023,2023,Nov,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,NEWHAM,CANNING TOWN NORTH,E05013906,No
+171976-03112023,2023,Nov,e-bike,Electricity,E-Bike,Other item,Electric batteries,NULL,ISLINGTON,ST. MARY'S & ST. JAMES',E05013710,No
+172416-04112023,2023,Nov,Bus/coach ,Electricity,Other lights,Wiring insulation,Electric batteries,Other,ENFIELD,CARTERHATCH,E05013677,No
+172764-04112023,2023,Nov,e-bike,Electricity,E-Bike,Other item,NULL,NULL,WALTHAM FOREST,HIGH STREET,E05013891,No
+173446-05112023,2023,Nov,e-bike,Not applicable,Matches,Clothing,Electric batteries,Other,WANDSWORTH,TRINITY,E05014025,No
+174024-06112023,2023,Nov,e-bike,Electricity,E-Bike,None,Electric batteries,UNKNOWN,ISLINGTON,CALEDONIAN,E05013700,No
+174443-07112023,2023,Nov,Car ,Electricity,Vehicle electrical fault,Rubber - raw material only,Petrol/Electric Hybrid,Mercedes,ENFIELD,BUSH HILL PARK,E05013676,No
+176369-10112023,2023,Nov,Car ,Unknown,Unknown vehicle fault,Rubber - raw material only,Petrol/Electric Hybrid,Vauxhall/GM,ENFIELD,WINCHMORE HILL,E05013696,No
+180652-17112023,2023,Nov,e-bike,Not applicable,Cigarette,Rubbish/Waste material,Electric batteries,Other,WESTMINSTER,BAYSWATER,E05013793,No
+181221-18112023,2023,Nov,e-bike,Not applicable,Not known,Not known,Electric batteries,UNKNOWN,WESTMINSTER,BAYSWATER,E05013793,No
+181419-19112023,2023,Nov,e-bike,Electricity,"Batteries, generators",Gases,NULL,NULL,EALING,WALPOLE,E05013541,Yes
+181657-19112023,2023,Nov,Car ,Other,"Wiring, cabling, plugs",Plastic - raw material only,Petrol/Electric Hybrid,Toyota,BARNET,EAST FINCHLEY,E05013636,No
+182446-21112023,2023,Nov,e-cigarette,Electricity,e-Smoking equipment,Other paper product,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+183059-22112023,2023,Nov,e-bike,Electricity,E-Bike,Other item,NULL,NULL,BARNET,MILL HILL,E05013645,Yes
+183060-22112023,2023,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,WESTMINSTER,WEST END,E05013808,Yes
+183560-23112023,2023,Nov,Car ,Not applicable,Other non-electrical vehicle fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,SOUTHWARK,CAMBERWELL GREEN,E05011096,No
+183630-23112023,2023,Nov,Other Lithium Battery,Unknown,Not known,Not known,NULL,NULL,SOUTHWARK,SOUTH BERMONDSEY,E05011116,Yes
+183768-23112023,2023,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,GREENWICH,GREENWICH PENINSULA,E05014082,Yes
+184516-24112023,2023,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,NEWHAM,GREEN STREET WEST,E05013914,Yes
+184755-25112023,2023,Nov,e-bike,Electricity,E-Bike,Other item,Electric batteries,Other,HOUNSLOW,HESTON WEST,E05013619,Yes
+184819-25112023,2023,Nov,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HACKNEY,HACKNEY WICK,E05009374,Yes
+185830-26112023,2023,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,REDBRIDGE,CLEMENTSWOOD,E05011240,Yes
+185950-26112023,2023,Nov,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Electric batteries,Toyota,CROYDON,BROAD GREEN,E05011465,No
+186461-27112023,2023,Nov,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+186477-27112023,2023,Nov,Other Lithium Battery,Electricity,"Batteries, generators",Bed/mattress,NULL,NULL,MERTON,WIMBLEDON TOWN & DUNDONALD,E05013829,Yes
+187742-30112023,2023,Nov,Other Lithium Battery,Electricity,"Wiring, cabling, plugs",Gases,NULL,NULL,NEWHAM,FOREST GATE NORTH,E05013911,Yes
+188033-30112023,2023,Nov,Car ,Not applicable,"Engine, fuel line or pump",None,Petrol/Electric Hybrid,Toyota,TOWER HAMLETS,ST. DUNSTAN'S,E05009329,No
+188034-30112023,2023,Nov,Car ,Not applicable,"Engine, fuel line or pump",None,Petrol/Electric Hybrid,Toyota,TOWER HAMLETS,ST. DUNSTAN'S,E05009329,No
+189322-02122023,2023,Dec,Car ,Unknown,Unknown vehicle fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,HARROW,HARROW ON THE HILL,E05013547,No
+189566-02122023,2023,Dec,e-bike,Electricity,E-Bike,Upholstered furniture,NULL,NULL,HACKNEY,LONDON FIELDS,E05009381,No
+189978-03122023,2023,Dec,Motor Home ,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,NULL,HARINGEY,SOUTH TOTTENHAM,E05013599,No
+190077-03122023,2023,Dec,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,UNKNOWN,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+190505-04122023,2023,Dec,e-cigarette,Electricity,e-Smoking equipment,"Paper, cardboard",NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+191068-05122023,2023,Dec,e-bike,Electricity,"Batteries, generators",None,Electric batteries,UNKNOWN,SOUTHWARK,LONDON BRIDGE & WEST BERMONDSEY,E05011104,No
+191109-05122023,2023,Dec,e-bike,Electricity,"Batteries, generators",Other item,Electric batteries,UNKNOWN,WANDSWORTH,BALHAM,E05014009,No
+191410-06122023,2023,Dec,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+192283-07122023,2023,Dec,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,ISLINGTON,CALEDONIAN,E05013700,No
+192875-08122023,2023,Dec,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Petrol/Electric Hybrid,Toyota,BARKING AND DAGENHAM,HEATH,E05014063,Yes
+193322-09122023,2023,Dec,Car ,Electricity,Vehicle electrical fault,Capacitor,Petrol/Electric Hybrid,BMW,HACKNEY,HACKNEY CENTRAL,E05009372,No
+193727-09122023,2023,Dec,Car ,Electricity,Vehicle electrical fault,Other item,Petrol/Electric Hybrid,Hyundai,BRENT,BARNHILL,E05013497,No
+194270-10122023,2023,Dec,Car ,Not applicable,Liquids; petrol/oil related,Petrol/Oil products,Petrol/Electric Hybrid,Other,WALTHAM FOREST,LEA BRIDGE,E05013895,No
+194418-11122023,2023,Dec,e-bike,Electricity,Other appliance or equipment,Internal Fittings,NULL,NULL,HARINGEY,HARRINGAY,E05013590,Yes
+194792-11122023,2023,Dec,e-bike,Electricity,"Batteries, generators",Not known,Electric batteries,NULL,ENFIELD,LOWER EDMONTON,E05013685,No
+195161-12122023,2023,Dec,Other road vehicle,Electricity,"Batteries, generators",Rubbish/Waste material,Diesel/Electric Hybrid,Mercedes,LAMBETH,OVAL,E05014108,Yes
+195445-12122023,2023,Dec,Car ,Electricity,"Batteries, generators",Other item,Petrol/Electric Hybrid,Audi,BRENT,QUEENSBURY,E05013508,No
+195806-13122023,2023,Dec,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,REDBRIDGE,WANSTEAD PARK,E05011254,No
+196113-14122023,2023,Dec,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,HACKNEY,VICTORIA,E05009386,Yes
+196325-14122023,2023,Dec,e-bike,Electricity,E-Bike,Other item,NULL,NULL,WANDSWORTH,TOOTING BROADWAY,E05014024,Yes
+197325-16122023,2023,Dec,e-bike,Not applicable,Cigarette,Rubber - raw material only,Electric batteries,UNKNOWN,TOWER HAMLETS,SPITALFIELDS & BANGLATOWN,E05009333,No
+197756-16122023,2023,Dec,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Toyota,REDBRIDGE,ALDBOROUGH,E05011234,No
+198577-18122023,2023,Dec,Other Lithium Battery,Other,Not known,Other item,NULL,NULL,WALTHAM FOREST,FOREST,E05013887,Yes
+198660-18122023,2023,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,WESTMINSTER,BAYSWATER,E05013793,Yes
+199510-19122023,2023,Dec,e-bike,Electricity,E-Bike,Internal Fittings,NULL,NULL,NEWHAM,GREEN STREET EAST,E05013913,Yes
+200652-21122023,2023,Dec,Car ,Electricity,"Wiring, cabling, plugs",External fittings,Petrol/Electric Hybrid,Toyota,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+200916-22122023,2023,Dec,Van ,Electricity,"Batteries, generators",Plastic - raw material only,Diesel/Electric Hybrid,Mercedes,SOUTHWARK,BOROUGH & BANKSIDE,E05011095,No
+201368-23122023,2023,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,CAMDEN,KILBURN,E05013665,Yes
+201495-23122023,2023,Dec,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,HILLINGDON,WOOD END,E05013582,No
+204370-28122023,2023,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Plastic - raw material only,NULL,NULL,EALING,NORTH ACTON,E05013527,Yes
+204633-29122023,2023,Dec,Other Lithium Battery,Electricity,"Batteries, generators",Wiring insulation,NULL,NULL,LEWISHAM,EVELYN,E05013721,Yes
+000343-01012024,2024,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Printed circuit board,NULL,NULL,BROMLEY,BROMLEY COMMON & HOLWOOD,E05013990,Yes
+000921-02012024,2024,Jan,Car ,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,Electric batteries,Jaguar/Daimler,ISLINGTON,CALEDONIAN,E05013700,No
+001595-02012024,2024,Jan,Car ,Not applicable,Liquids; petrol/oil related,Rubber - raw material only,Petrol/Electric Hybrid,Toyota,TOWER HAMLETS,BLACKWALL & CUBITT TOWN,E05009318,No
+002016-03012024,2024,Jan,Car ,Electricity,Vehicle electrical fault,Other item,Petrol/Electric Hybrid,Toyota,GREENWICH,BLACKHEATH WESTCOMBE,E05014073,No
+003282-05012024,2024,Jan,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,Electric batteries,Other,HAMMERSMITH AND FULHAM,HAMMERSMITH BROADWAY,E05013741,No
+003304-05012024,2024,Jan,Other Lithium Battery,Not applicable,Not known,Other textiles,NULL,NULL,WALTHAM FOREST,LEYTON,E05013896,Yes
+003467-05012024,2024,Jan,Bus/coach ,Other,Other,None,Diesel/Electric Hybrid,Volvo,HARINGEY,HARRINGAY,E05013590,No
+004514-07012024,2024,Jan,Car ,Unknown,Not known,Foam - raw material only,Petrol/Electric Hybrid,Mitsubishi,REDBRIDGE,WANSTEAD PARK,E05011254,No
+004556-08012024,2024,Jan,e-bike,Electricity,E-Bike,Other item,Electric batteries,NULL,NEWHAM,PLAISTOW SOUTH,E05013919,Yes
+004752-08012024,2024,Jan,e-scooter,Electricity,E-Scooter,Rubbish/Waste material,Electric batteries,UNKNOWN,ISLINGTON,FINSBURY PARK,E05013703,No
+005256-09012024,2024,Jan,Other road vehicle,Electricity,"Batteries, generators",Wiring insulation,Diesel/Electric Hybrid,UNKNOWN,HILLINGDON,HEATHROW VILLAGES,E05013570,No
+005520-09012024,2024,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Rubbish/Waste material,NULL,NULL,WANDSWORTH,NINE ELMS,E05014015,Yes
+005713-10012024,2024,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Gases,NULL,NULL,NEWHAM,GREEN STREET WEST,E05013914,Yes
+006330-11012024,2024,Jan,Bus/coach ,Electricity,Vehicle electrical fault,Other item,Electric batteries,NULL,MERTON,HILLSIDE,E05013816,Yes
+009404-16012024,2024,Jan,e-scooter,Electricity,E-Scooter,Capacitor,Diesel/Electric Hybrid,Mercedes,BRENT,WILLESDEN GREEN,E05013517,No
+009423-16012024,2024,Jan,Motorcycle ,Electricity,Vehicle electrical fault,Other item,Electric batteries,NULL,HILLINGDON,PINKWELL,E05013576,No
+009444-16012024,2024,Jan,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Electric batteries,Other,HILLINGDON,UXBRIDGE,E05013580,No
+011416-19012024,2024,Jan,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,Toyota,WANDSWORTH,EAST PUTNEY,E05014011,No
+012045-20012024,2024,Jan,Car ,Electricity,Vehicle electrical fault,Plastic - raw material only,Electric batteries,Nissan,BRENT,NORTHWICK PARK,E05013505,No
+012705-21012024,2024,Jan,Other Lithium Battery,Electricity,"Batteries, generators",Gases,NULL,NULL,BROMLEY,KELSEY & EDEN PARK,E05013999,Yes
+012714-21012024,2024,Jan,e-scooter,Electricity,E-Scooter,Unspecified internal fitting/part of structure,Electric batteries,UNKNOWN,EALING,HANGER HILL,E05013524,No
+014133-23012024,2024,Jan,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,RICHMOND UPON THAMES,MORTLAKE & BARNES COMMON,E05013783,Yes
+014286-24012024,2024,Jan,Bus/coach ,Electricity,Vehicle electrical fault,Unspecified internal fitting/part of structure,Electric batteries,UNKNOWN,WANDSWORTH,THAMESFIELD,E05014022,No
+014388-24012024,2024,Jan,Car ,Not applicable,Cigarette,Household paper/Cardboard,Petrol/Electric Hybrid,Toyota,REDBRIDGE,BARKINGSIDE,E05011235,No
+014430-24012024,2024,Jan,Car ,Electricity,Vehicle electrical fault,Internal Fittings,Petrol/Electric Hybrid,BMW,HARINGEY,NORTHUMBERLAND PARK,E05013596,No
+015114-25012024,2024,Jan,e-bike,Not applicable,"Lighted paper or card, or other naked flame",Plastic - raw material only,Electric batteries,Other,WANDSWORTH,FALCONBROOK,E05014012,No
+015602-26012024,2024,Jan,e-bike,Electricity,"Batteries, generators",Unspecified internal fitting/part of structure,NULL,NULL,KENSINGTON AND CHELSEA,COURTFIELD,E05009393,Yes
+015937-27012024,2024,Jan,Warehouse ,Other,Other,Other item,Electric batteries,NULL,EALING,CENTRAL GREENFORD,E05013518,No
+017508-29012024,2024,Jan,Bus/coach ,Not applicable,Wheels or brakes,Not known,Electric batteries,UNKNOWN,ISLINGTON,JUNCTION,E05013707,No
+018663-01022024,2024,Feb,Car ,Electricity,Vehicle electrical fault,Other item,Petrol/Electric Hybrid,Volvo,SOUTHWARK,PECKHAM RYE,E05011111,Yes
+019426-02022024,2024,Feb,e-bike,Electricity,E-Bike,Floor coverings,NULL,NULL,BROMLEY,PENGE & CATOR,E05014002,No
+019808-03022024,2024,Feb,Multiple Vehicles ,Other,Other,Petrol/Oil products,Petrol/Electric Hybrid,Vauxhall/GM,CROYDON,SELSDON & ADDINGTON VILLAGE,E05011480,No
+019888-03022024,2024,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,BRENT,WELSH HARP,E05013513,Yes
+020192-03022024,2024,Feb,e-bike,Unknown,Not known,Unspecified external fitting/part of structure,Electric batteries,Other,CAMDEN,WEST HAMPSTEAD,E05013671,No
+021052-05022024,2024,Feb,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,EALING,EALING COMMON,E05013521,No
+021199-05022024,2024,Feb,e-bike,Electricity,E-Bike,Rubber - raw material only,NULL,NULL,LAMBETH,BRIXTON WINDRUSH,E05014098,Yes
+021655-06022024,2024,Feb,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,WESTMINSTER,ST. JAMES'S,E05013806,Yes
+021760-06022024,2024,Feb,Car ,Electricity,"Batteries, generators",Not known,Unknown,Other,SUTTON,BELMONT,E05013755,No
+021990-07022024,2024,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,TOWER HAMLETS,WHITECHAPEL,E05009336,Yes
+022347-07022024,2024,Feb,Car ,Electricity,Vehicle electrical fault,Not known,Electric batteries,Other,MERTON,HILLSIDE,E05013816,No
+022528-08022024,2024,Feb,e-bike,Electricity,"Batteries, generators",Gases,NULL,NULL,TOWER HAMLETS,WHITECHAPEL,E05009336,Yes
+022854-08022024,2024,Feb,e-bike,Electricity,E-Bike,Other item,Electric batteries,Other,HARINGEY,TOTTENHAM CENTRAL,E05013601,Yes
+023084-09022024,2024,Feb,Car ,Electricity,"Wiring, cabling, plugs",Plastic - raw material only,Petrol/Electric Hybrid,Toyota,EALING,CENTRAL GREENFORD,E05013518,No
+023116-09022024,2024,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Gases,NULL,NULL,KENSINGTON AND CHELSEA,QUEEN'S GATE,E05009401,Yes
+023145-09022024,2024,Feb,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+023172-09022024,2024,Feb,e-cigarette,Electricity,e-Smoking equipment,Household paper/Cardboard,NULL,NULL,GREENWICH,WEST THAMESMEAD,E05014091,No
+024740-12022024,2024,Feb,Car ,Unknown,Unknown vehicle fault,Other item,Petrol/Electric Hybrid,Toyota,BARNET,COLINDALE SOUTH,E05013633,No
+025315-12022024,2024,Feb,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,HAMMERSMITH AND FULHAM,WHITE CITY,E05013752,No
+025374-13022024,2024,Feb,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,WESTMINSTER,MARYLEBONE,E05013801,No
+026522-15022024,2024,Feb,e-scooter,Electricity,E-Scooter,Plastic - raw material only,NULL,NULL,BRENT,ROUNDWOOD,E05013509,No
+026846-15022024,2024,Feb,Trailer (not attached to tractor unit),Electricity,"Batteries, generators",Other item,Unknown,Other,LAMBETH,BRIXTON NORTH,E05014096,Yes
+026927-15022024,2024,Feb,Car ,Electricity,Vehicle electrical fault,Wiring insulation,Petrol/Electric Hybrid,Mitsubishi,REDBRIDGE,WANSTEAD PARK,E05011254,No
+026929-15022024,2024,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,LEWISHAM,GROVE PARK,E05013723,Yes
+027126-16022024,2024,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Other item,Diesel/Biodiesel,NULL,HARINGEY,NOEL PARK,E05013595,Yes
+027327-16022024,2024,Feb,e-bike,Electricity,E-Bike,Other item,NULL,NULL,HARROW,GREENHILL,E05013546,Yes
+027630-17022024,2024,Feb,Other Lithium Battery,Other,Other,Rubbish/Waste material,NULL,NULL,NEWHAM,ROYAL ALBERT,E05013922,Yes
+028033-17022024,2024,Feb,Car ,Unknown,Other,Wiring insulation,Petrol/Electric Hybrid,Toyota,SOUTHWARK,OLD KENT ROAD,E05011109,No
+028280-18022024,2024,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Other item,NULL,NULL,BEXLEY,BLACKFEN & LAMORBEY,E05011220,Yes
+028624-18022024,2024,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Not known,Diesel/Biodiesel,NULL,BARNET,CRICKLEWOOD,E05013634,Yes
+028783-19022024,2024,Feb,Other Lithium Battery,Not applicable,Other,Other textiles,Diesel/Biodiesel,NULL,BARNET,CRICKLEWOOD,E05013634,Yes
+029260-20022024,2024,Feb,Other Lithium Battery,Electricity,"Batteries, generators",Chemicals in raw state,NULL,NULL,HARROW,STANMORE,E05013560,Yes
+029684-20022024,2024,Feb,e-scooter,Electricity,E-Scooter,Other item,NULL,NULL,WANDSWORTH,ROEHAMPTON,E05014017,Yes
+029976-21022024,2024,Feb,e-bike,Electricity,"Batteries, generators",Other item,NULL,NULL,WESTMINSTER,PIMLICO SOUTH,E05013803,Yes
+030314-22022024,2024,Feb,e-bike,Electricity,E-Bike,Wiring insulation,NULL,NULL,HACKNEY,SPRINGFIELD,E05009383,No
+031439-24022024,2024,Feb,e-bike,Electricity,E-Bike,Plastic - raw material only,NULL,NULL,CROYDON,BROAD GREEN,E05011465,Yes
+033882-28022024,2024,Feb,e-bike,Electricity,E-Bike,Unspecified internal fitting/part of structure,Electric batteries,NULL,HAMMERSMITH AND FULHAM,WHITE CITY,E05013752,No

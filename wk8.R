@@ -1,0 +1,270 @@
+install.packages("devtools")
+devtools::install_version("stars", version = "0.5.3", repos = "http://cran.us.r-project.org")
+install.packages("sf")
+install.packages("tmap")
+install.packages("SpatialEpi")
+install.packages("geostan")
+install.packages("tidybayes")
+install.packages("tidyverse")
+install.packages("sp")
+
+# Load the packages with library()
+library("sf")
+library("tmap")
+library("spdep")
+library("rstan")
+library("geostan")
+library("SpatialEpi")
+library("tidybayes")
+library("tidyverse")
+library("here")
+library("dpl")
+
+options(mc.cores = parallel::detectCores())
+rstan_options(auto_write = TRUE)
+
+setwd("C:/Users/lulu/Desktop/week8_adv_geo")
+
+
+# load the London borough shape files,and capitalise the entire NAME column to join the EV_Fire data later  
+London_boro_shp <- read_sf(here::here("statistical-gis-boundaries-london","ESRI","London_Borough_Excluding_MHW.shp")) %>% mutate(NAME = toupper(NAME)) %>% rename(Borough=NAME)
+
+# load the EV_fire incident table and keep only 2020 2021 and 2022 data, this table includes all battery related fire incidents, so we filter the table with following conditions to keep only incidents caused by Electric vehicles
+# The raw count of EV fire incidents by borough is our dependent variable we want to model. 
+EV_Fire <- read.csv(here::here("EV_Fire.csv")) %>% filter(!(Type == "e-cigarette"|Type == "Other Lithium Battery") ) %>% filter(CalendarYear ==2021 |CalendarYear ==2020| CalendarYear ==2022)
+EV_Fire_Boro <- EV_Fire %>% group_by(IncGeo_BoroughName) %>% summarise(count = n())
+EV_Fire_Boro[1,"IncGeo_BoroughName"] <- "CITY OF LONDON"
+
+# This is the Estimated traffic volume for all cars and vehicles by borough. We take the  traffic volume of 2022.
+# This is one independent variable. We assume that greater the traffic volume greater the number of EV catching fire 
+Traffic_boro <- read.csv(here::here("traffic-flow-boro.csv")) 
+col_indices <- c(32)
+col_names <- names(Traffic_boro)[col_indices]
+Traffic_boro <- Traffic_boro %>% select(all_of(c(col_names, "Local.Authority"))) %>%  slice(2:34) %>% mutate(Local.Authority = toupper(Local.Authority)) ## First row empty. Rows after 34th were data for other regions in England. 
+
+# The number of registered private cars or light goods vehicles per borough in 2022
+# This is the second independent variable we wish to model. We assume that the more car in an area the more 
+vehicles_boro <- read.csv(here::here("vehicles-per-boro.csv"))  %>% select(Area, PLG.Total) %>%  slice(2:34) %>% mutate(Area = toupper(Area))
+
+# 2020 London population by borough. We need population data to calculate the expected number of EV Fire accidents per borough
+#In order to estimate the risk of Fire incidents caused by EVs at the borough level in London
+#we will need to first obtain a column that contains estimates from expected number of EV-caused fire accidents. 
+#This is derived from the Population column which as denominators or reference population size which is multiplied to the raw count of EV Fire incidents to get the number of expected casualties for each London borough.
+
+pop <- read.csv(here::here("Road Casualties Data 2015-2020.csv")) %>% slice(275:307) %>% mutate(LAD21NM = toupper(LAD21NM)) %>% select(LAD21NM,Population)
+pop_plus_accident <- merge(pop, EV_Fire_Boro, by.x = "LAD21NM", by.y = "IncGeo_BoroughName", all.x = TRUE)
+
+# calculate the expected number of cases
+pop_plus_accident$ExpectedNum <- round(expected(population = pop_plus_accident$Population, cases = pop_plus_accident$count, n.strata = 1), 0)
+
+#merge traffic flow, vehicle registered with pop_plus_accident
+pop_plus_accident <- merge(pop_plus_accident, Traffic_boro, by.x = "LAD21NM", by.y = "Local.Authority", all.x = TRUE)
+pop_plus_accident <- merge(pop_plus_accident, vehicles_boro, by.x = "LAD21NM", by.y = "Area", all.x = TRUE)
+pop_plus_accident <- pop_plus_accident %>%   rename(Borough = LAD21NM, Number_of_EV_Fire = count, Total_vehicles = PLG.Total, Traffic_volume = col_names) # rename the columns to things that make more sense
+pop_plus_accident[7,"ExpectedNum"] <- 2 # The city of London was expected to have 0 incidents. We have to artificially inject a number or later iterations would fail.
+
+
+# convert spatial adjacency matrix to nodes and edges because rstan recognizes only that
+#first do it to local authority level shapefile 
+
+# merge the attribute table to the shapefile
+spatial.data <- merge(London_boro_shp, pop_plus_accident, by.x = "Borough", by.y = "Borough", all.x = TRUE)
+# need to be coerced into a spatial object
+sp.object <- as(spatial.data, "Spatial")
+
+# needs to be coerced into a matrix object
+adjacencyMatrix <- shape2mat(sp.object)
+# we extract the components for the ICAR model
+extractComponents <- prep_icar_data(adjacencyMatrix)
+
+## from the extractComponent obj, we will need to extract the following: 
+# 1. $group_size this is the number of areal units under observation listed in the shapefile (should be the same in the road accidents dataset)
+# 2. $node1 are index regions of interest
+# 3. $node2 are the other neighbouring regions that are connected to the index region of interest listed in node1
+# 4. $n_edges creates the network as show area is connected to what neighbourhood. It’s still an adjacency matrix using the queen contiguity matrix but as a network.
+
+n <- as.numeric(extractComponents$group_size)
+nod1 <- extractComponents$node1
+nod2 <- extractComponents$node2
+n_edges <- as.numeric(extractComponents$n_edges)
+
+## Create the dataset to be compiled in Stan 
+# define the vars needed to be compiled in stan: dependent var Casualities, Independent var IMDscore, offset var ExpectedNum
+
+y <- spatial.data$Number_of_EV_Fire
+x <- pop_plus_accident[,c("Traffic_volume","Total_vehicles")]
+e <- spatial.data$ExpectedNum
+
+# put all components into a list object. This is our dataset for stan 
+stan.spatial.dataset <- list(N=n, N_edges=n_edges, node1=nod1, node2=nod2, Y=y, X=x, K=length(x), Offset=e)
+
+
+# use stan() to compile the saved script to obtain the posterior estimation of the parameters from our model
+icar_poisson_fit = stan("stan.stan", data=stan.spatial.dataset, iter=10000, control = list(max_treedepth = 12), chains=6, verbose = FALSE)
+
+# remove that annoying scientific notation
+options(scipen = 999)
+summary(icar_poisson_fit, pars=c("alpha", "beta", "sigma"), probs=c(0.025, 0.975))$summary
+
+print(icar_poisson_fit)
+
+# Spatial effects 
+# show first few rows
+head(summary(icar_poisson_fit, pars=c("phi"), probs=c(0.025, 0.975))$summary)
+
+## Before mapping the relative risks, we need to check if 
+## any of the estimates alpha beta sigma and phi exceeds the rhat value of 1.1
+## if not we can move on
+
+# diagnostic check on the rHats - put everything into a data frame
+diagnostic.checks <- as.data.frame(summary(icar_poisson_fit, pars=c("alpha", "beta", "sigma", "phi", "lp__"), probs=c(0.025, 0.5, 0.975))$summary)
+# create binary variable
+diagnostic.checks$valid <- ifelse(diagnostic.checks$Rhat < 1.1, 1, 0)
+# tabulate it
+table(diagnostic.checks$valid)
+
+
+
+## Extraction of area-specific relative risks 
+
+# show first 6 rows only instead of the full 307
+head(summary(icar_poisson_fit, pars=c("rr_mu"), probs=c(0.025, 0.975))$summary)
+
+
+# extraction key posterior results for the generated quantities 
+relativeRisk.results <- as.data.frame(summary(icar_poisson_fit, pars=c("rr_mu"), probs=c(0.025, 0.975))$summary)
+# now cleaning up this table up
+# first, insert clean row numbers to new data frame
+row.names(relativeRisk.results) <- 1:nrow(relativeRisk.results)
+# second, rearrange the columns into order
+
+relativeRisk.results <- relativeRisk.results[, c(1,4,5,7)]
+# third, rename the columns appropriately
+colnames(relativeRisk.results)[1] <- "rr"
+colnames(relativeRisk.results)[2] <- "rrlower"
+colnames(relativeRisk.results)[3] <- "rrupper"
+colnames(relativeRisk.results)[4] <- "rHAT"
+
+# view clean table 
+head(relativeRisk.results)
+
+## Insert these columns into the spatial.data obj
+# now, we proceed to generate our risk maps
+# align the results to the areas in shapefile
+spatial.data$rr <- relativeRisk.results[, "rr"]
+spatial.data$rrlower <- relativeRisk.results[, "rrlower"]
+spatial.data$rrupper <- relativeRisk.results[, "rrupper"]
+
+# create categories to define if an area has significant increase or decrease in risk, or nothing all 
+spatial.data$Significance <- NA
+spatial.data$Significance[spatial.data$rrlower<1 & spatial.data$rrupper>1] <- 0    # NOT SIGNIFICANT
+spatial.data$Significance[spatial.data$rrlower==1 | spatial.data$rrupper==1] <- 0  # NOT SIGNIFICANT
+spatial.data$Significance[spatial.data$rrlower>1 & spatial.data$rrupper>1] <- 1    # SIGNIFICANT INCREASE
+spatial.data$Significance[spatial.data$rrlower<1 & spatial.data$rrupper<1] <- -1   # SIGNIFICANT DECREASE
+
+
+# For map design for the relative risk -- you want to understand or get a handle on what the distribution for risks look like
+# this would inform you of how to create the labelling for the legends when make a map in tmap
+summary(spatial.data$rr)
+hist(spatial.data$rr)
+
+# creating the labels
+RiskCategorylist <- c(">0.0 to 0.25", "0.26 to 0.50", "0.51 to 0.75", "0.76 to 0.99", "1.00 & <1.01",
+                      "1.01 to 1.10", "1.11 to 1.25", "1.26 to 1.50", "1.51 to 1.75", "1.76 to 2.00", "2.01 to 3.00")
+
+# next, we are creating the discrete colour changes for my legends and want to use a divergent colour scheme
+# scheme ranges from extreme dark blues to light blues to white to light reds to extreme dark reds
+# you can pick your own colour choices by checking out this link [https://colorbrewer2.org]
+
+RRPalette <- c("#65bafe","#98cffe","#cbe6fe","#dfeffe","white","#fed5d5","#fcbba1","#fc9272","#fb6a4a","#de2d26","#a50f15")
+
+# categorising the risk values to match the labelling in RiskCategorylist object
+spatial.data$RelativeRiskCat <- NA
+spatial.data$RelativeRiskCat[spatial.data$rr>= 0 & spatial.data$rr <= 0.25] <- -4
+spatial.data$RelativeRiskCat[spatial.data$rr> 0.25 & spatial.data$rr <= 0.50] <- -3
+spatial.data$RelativeRiskCat[spatial.data$rr> 0.50 & spatial.data$rr <= 0.75] <- -2
+spatial.data$RelativeRiskCat[spatial.data$rr> 0.75 & spatial.data$rr < 1] <- -1
+spatial.data$RelativeRiskCat[spatial.data$rr>= 1.00 & spatial.data$rr < 1.01] <- 0
+spatial.data$RelativeRiskCat[spatial.data$rr>= 1.01 & spatial.data$rr <= 1.10] <- 1
+spatial.data$RelativeRiskCat[spatial.data$rr> 1.10 & spatial.data$rr <= 1.25] <- 2
+spatial.data$RelativeRiskCat[spatial.data$rr> 1.25 & spatial.data$rr <= 1.50] <- 3
+spatial.data$RelativeRiskCat[spatial.data$rr> 1.50 & spatial.data$rr <= 1.75] <- 4
+spatial.data$RelativeRiskCat[spatial.data$rr> 1.75 & spatial.data$rr <= 2.00] <- 5
+spatial.data$RelativeRiskCat[spatial.data$rr> 2.00 & spatial.data$rr <= 10] <- 6
+
+# check to see if legend scheme is balanced - if a number is missing that categorisation is wrong!
+table(spatial.data$RelativeRiskCat)
+
+# map of relative risk
+tmap_mode("plot")
+tm_shape(spatial.data) + 
+tm_fill("Number_of_EV_Fire") +
+tm_shape(London_boro_shp) + tm_polygons(alpha = 0.05) 
+
+# map of significance regions
+tm_shape(spatial.data) + 
+tm_fill("Significance", style = "cat", title = "Significance Categories", 
+        palette = c("#33a6fe", "white", "#fe0000"), labels = c("Significantly low", "Not Significant", "Significantly high")) +
+tm_shape(London_boro_shp) + tm_polygons(alpha = 0.10) + 
+tm_layout(frame = FALSE, legend.outside = TRUE, legend.title.size = 0.8, legend.text.size = 0.7) +
+tm_compass(position = c("right", "top")) + tm_scale_bar(position = c("right", "bottom"))
+
+# create side-by-side plot
+tmap_arrange(rr_map, sg_map, ncol = 2, nrow = 1)
+
+
+
+save.image()
+
+#Mapping Exceedence probabilities 
+# extract the exceedence probabilities from the icar_possion_fit object
+# compute the probability that an area has a relative risk ratio > 1.0
+threshold <- function(x){mean(x > 1.00)}
+excProbrr <- icar_poisson_fit %>% spread_draws(rr_mu[i]) %>% 
+  group_by(i) %>% summarise(rr_mu=threshold(rr_mu)) %>%
+  pull(rr_mu)
+
+# insert the exceedance values into the spatial data frame
+spatial.data$excProb <- excProbrr
+
+
+# create the labels for the probabilities
+ProbCategorylist <- c("<0.01", "0.01-0.09", "0.10-0.19", "0.20-0.29", "0.30-0.39", "0.40-0.49","0.50-0.59", "0.60-0.69", "0.70-0.79", "0.80-0.89", "0.90-0.99", "1.00")
+
+# categorising the probabilities in bands of 10s
+spatial.data$ProbCat <- NA
+spatial.data$ProbCat[spatial.data$excProb>=0 & spatial.data$excProb< 0.01] <- 1
+spatial.data$ProbCat[spatial.data$excProb>=0.01 & spatial.data$excProb< 0.10] <- 2
+spatial.data$ProbCat[spatial.data$excProb>=0.10 & spatial.data$excProb< 0.20] <- 3
+spatial.data$ProbCat[spatial.data$excProb>=0.20 & spatial.data$excProb< 0.30] <- 4
+spatial.data$ProbCat[spatial.data$excProb>=0.30 & spatial.data$excProb< 0.40] <- 5
+spatial.data$ProbCat[spatial.data$excProb>=0.40 & spatial.data$excProb< 0.50] <- 6
+spatial.data$ProbCat[spatial.data$excProb>=0.50 & spatial.data$excProb< 0.60] <- 7
+spatial.data$ProbCat[spatial.data$excProb>=0.60 & spatial.data$excProb< 0.70] <- 8
+spatial.data$ProbCat[spatial.data$excProb>=0.70 & spatial.data$excProb< 0.80] <- 9
+spatial.data$ProbCat[spatial.data$excProb>=0.80 & spatial.data$excProb< 0.90] <- 10
+spatial.data$ProbCat[spatial.data$excProb>=0.90 & spatial.data$excProb< 1.00] <- 11
+spatial.data$ProbCat[spatial.data$excProb == 1.00] <- 12
+
+# check to see if legend scheme is balanced
+table(spatial.data$ProbCat)
+
+
+
+# map of exceedance probabilities
+tm_shape(spatial.data) + 
+  tm_fill("ProbCat", style = "cat", title = "Probability", palette = "PuBu") +
+  tm_shape(London_boro_shp) + tm_polygons(alpha = 0.05, border.col = "black") + 
+  tm_layout(frame = FALSE, legend.outside = TRUE, legend.title.size = 0.8, legend.text.size = 0.7) +
+  tm_compass(position = c("right", "top")) + tm_scale_bar(position = c("right", "bottom"))
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+{
+    "id": "D963E78D",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1713660076039.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "id": "760eea5eed784eb4afb1618fc5f6bd4b",
+        "name": "icar_poisson_fit",
+        "title": "icar_poisson_fit",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2019025181322313829,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713660076039,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "09AC7770",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1713424206632.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "id": "231ef2201d3148f5a372557c6c3d7606",
+        "name": "stan.spatial.dataset",
+        "title": "stan.spatial.dataset",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1713423533,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713424206632,
+    "read_only": false,
+    "read_only_alternatives": []
+}
